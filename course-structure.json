@@ -1,13 +1,13 @@
 {
   "summary": {
     "totalLessons": 293,
-    "completedLessons": 118,
-    "lessonsRemaining": 175,
+    "completedLessons": 147,
+    "lessonsRemaining": 146,
     "totalTime": "28hr 50min",
-    "completedTime": "10hr 30min",
-    "remainingTime": "18hr 20min",
-    "lessonProgress": "40%",
-    "timeProgress": "36%"
+    "completedTime": "13hr 53min",
+    "remainingTime": "14hr 57min",
+    "lessonProgress": "50%",
+    "timeProgress": "48%"
   },
   "lessons": [
     {
@@ -162,7 +162,7 @@
       "lesson": "Quiz 1: Components, Styles, Layouts",
       "numbering": 22,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 2: React Native Basics [COURSE GOALS APP]",
@@ -211,7 +211,7 @@
       "lesson": "Quiz 2: More Components & Lists",
       "numbering": 29,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 2: React Native Basics [COURSE GOALS APP]",
@@ -1240,7 +1240,7 @@
       "lesson": "Demo App Walkthrough",
       "numbering": 176,
       "duration": "4min",
-      "isDone": true
+      "isDone": false
     },
     {
       "section": "Section 11: User Authentication",
@@ -1387,189 +1387,189 @@
       "lesson": "Global Colors & Styling",
       "numbering": 197,
       "duration": "5min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Getting Started with a Custom Form",
       "numbering": 198,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Adding & Configuring the Camera Package (for Native Camera Access)",
       "numbering": 199,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Taking Photos on Android",
       "numbering": 200,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Taking Photos on iOS + Managing Permissions",
       "numbering": 201,
       "duration": "8min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Showing an Image Preview",
       "numbering": 202,
       "duration": "7min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Creating a Custom Button",
       "numbering": 203,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Getting Started with the Location Picker",
       "numbering": 204,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Locating Users",
       "numbering": 205,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Adding a Location Preview Map",
       "numbering": 206,
       "duration": "12min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Adding an Interactive Map (Google Maps & Apple Maps)",
       "numbering": 207,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Allowing Map Interaction & Adding Markers",
       "numbering": 208,
       "duration": "5min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Confirming Picked Locations",
       "numbering": 209,
       "duration": "8min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Previewing Picked Locations",
       "numbering": 210,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Adding a Form Submit Button",
       "numbering": 211,
       "duration": "5min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Managing Location & Image State in the Form",
       "numbering": 212,
       "duration": "10min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Converting Picked Locations to Human-Readable Addresses",
       "numbering": 213,
       "duration": "10min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Passing Entered Data to the \"AllPlaces\" Screen",
       "numbering": 214,
       "duration": "5min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Outputting a List Of Places",
       "numbering": 215,
       "duration": "5min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Styling Place Items",
       "numbering": 216,
       "duration": "6min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "SQLite: Getting Started & Initialization",
       "numbering": 217,
       "duration": "16min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Preparing Code to Insert Data into the SQLite Database",
       "numbering": 218,
       "duration": "7min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Inserting Places into the Database",
       "numbering": 219,
       "duration": "3min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Fetching Places from the Database",
       "numbering": 220,
       "duration": "10min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Adding the Place Details Screen",
       "numbering": 221,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Fetching Place Detail Data from the Database",
       "numbering": 222,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
       "lesson": "Showing a Readonly Map",
       "numbering": 223,
       "duration": "9min",
-      "isDone": false
+      "isDone": true
     },
     {
       "section": "Section 12: Using Native Device Features (Camera, Location & More)",
@@ -2059,7 +2059,7 @@
       "lesson": "Bonus: More Content!",
       "numbering": 293,
       "duration": "1min",
-      "isDone": false
+      "isDone": true
     }
   ]
 }

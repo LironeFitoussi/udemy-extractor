@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Progress Tracker</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .stat-card .value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #4facfe;
+            margin-bottom: 5px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4facfe, #00f2fe);
+            transition: width 0.5s ease;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .section-controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary {
+            background: #4facfe;
+            color: white;
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .sections-container {
+            max-height: 70vh;
+            overflow-y: auto;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+        }
+
+        .section {
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .section:last-child {
+            border-bottom: none;
+        }
+
+        .section-header {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.3s ease;
+        }
+
+        .section-header:hover {
+            background: #e9ecef;
+        }
+
+        .section-title {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .section-progress {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-badge {
+            background: #4facfe;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+
+        .section-actions {
+            display: flex;
+            gap: 5px;
+        }
+
+        .btn-sm {
+            padding: 5px 10px;
+            font-size: 0.8rem;
+        }
+
+        .lessons {
+            display: none;
+            background: white;
+        }
+
+        .lessons.active {
+            display: block;
+        }
+
+        .lesson {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            border-bottom: 1px solid #f1f3f4;
+            transition: background 0.2s ease;
+        }
+
+        .lesson:hover {
+            background: #f8f9fa;
+        }
+
+        .lesson:last-child {
+            border-bottom: none;
+        }
+
+        .lesson-checkbox {
+            margin-right: 15px;
+            transform: scale(1.2);
+        }
+
+        .lesson-number {
+            background: #e9ecef;
+            color: #666;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-right: 15px;
+            min-width: 35px;
+            text-align: center;
+        }
+
+        .lesson-title {
+            flex: 1;
+            color: #333;
+        }
+
+        .lesson-duration {
+            color: #666;
+            font-size: 0.9rem;
+            margin-left: 10px;
+        }
+
+        .lesson.completed {
+            background: #f8fff9;
+        }
+
+        .lesson.completed .lesson-title {
+            text-decoration: line-through;
+            color: #28a745;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 6px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            transform: translateX(400px);
+            transition: transform 0.3s ease;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            transform: translateX(0);
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 15px;
+                padding: 20px;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .section-controls {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Course Progress Tracker</h1>
+            <p>Track your learning journey with real-time progress updates</p>
+        </div>
+
+        <div class="stats-grid" id="statsGrid">
+            <div class="loading">Loading course statistics...</div>
+        </div>
+
+        <div class="content">
+            <div class="section-controls">
+                <button class="btn btn-success" onclick="markAllComplete()">✅ Mark All Complete</button>
+                <button class="btn btn-secondary" onclick="markAllIncomplete()">❌ Mark All Incomplete</button>
+                <button class="btn btn-primary" onclick="toggleAllSections()">📁 Toggle All Sections</button>
+                <button class="btn btn-primary" onclick="refreshData()">🔄 Refresh</button>
+            </div>
+
+            <div class="sections-container" id="sectionsContainer">
+                <div class="loading">Loading course structure...</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        let courseData = null;
+        let allSectionsExpanded = false;
+
+        async function loadCourseData() {
+            try {
+                const response = await fetch('/api/course');
+                courseData = await response.json();
+                renderStats();
+                renderSections();
+            } catch (error) {
+                console.error('Failed to load course data:', error);
+                showToast('Failed to load course data', 'error');
+            }
+        }
+
+        function renderStats() {
+            const stats = courseData.statistics;
+            const statsHtml = `
+                <div class="stat-card">
+                    <h3>Total Lessons</h3>
+                    <div class="value">${stats.totalLessons}</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Completed</h3>
+                    <div class="value">${stats.completedLessons}</div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: ${stats.completionPercentage}%"></div>
+                    </div>
+                    <small>${stats.completionPercentage}% complete</small>
+                </div>
+                <div class="stat-card">
+                    <h3>Time Completed</h3>
+                    <div class="value">${stats.completedTime}</div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: ${stats.timeCompletionPercentage}%"></div>
+                    </div>
+                    <small>${stats.timeCompletionPercentage}% of ${stats.totalTime}</small>
+                </div>
+                <div class="stat-card">
+                    <h3>Remaining</h3>
+                    <div class="value">${stats.lessonsRemaining}</div>
+                    <small>${stats.remainingTime} left</small>
+                </div>
+            `;
+            document.getElementById('statsGrid').innerHTML = statsHtml;
+        }
+
+        function renderSections() {
+            const sectionsMap = new Map();
+            
+            // Group lessons by section
+            courseData.lessons.forEach(lesson => {
+                if (!sectionsMap.has(lesson.section)) {
+                    sectionsMap.set(lesson.section, []);
+                }
+                sectionsMap.get(lesson.section).push(lesson);
+            });
+
+            let sectionsHtml = '';
+            for (const [sectionName, lessons] of sectionsMap) {
+                const completed = lessons.filter(l => l.isDone).length;
+                const total = lessons.length;
+                const percentage = Math.round((completed / total) * 100);
+                
+                sectionsHtml += `
+                    <div class="section">
+                        <div class="section-header" onclick="toggleSection('${sectionName.replace(/'/g, "\\'")}')">
+                            <div class="section-title">${sectionName}</div>
+                            <div class="section-progress">
+                                <div class="section-badge">${completed}/${total}</div>
+                                <div class="section-actions" onclick="event.stopPropagation()">
+                                    <button class="btn btn-success btn-sm" onclick="markSectionComplete('${encodeURIComponent(sectionName)}')">✅</button>
+                                    <button class="btn btn-secondary btn-sm" onclick="markSectionIncomplete('${encodeURIComponent(sectionName)}')">❌</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lessons" id="section-${sectionName.replace(/[^a-zA-Z0-9]/g, '-')}">
+                            ${lessons.map(lesson => `
+                                <div class="lesson ${lesson.isDone ? 'completed' : ''}">
+                                    <input type="checkbox" class="lesson-checkbox" 
+                                           ${lesson.isDone ? 'checked' : ''} 
+                                           onchange="toggleLesson(${lesson.numbering}, this.checked)">
+                                    <div class="lesson-number">${lesson.numbering}</div>
+                                    <div class="lesson-title">${lesson.lesson}</div>
+                                    <div class="lesson-duration">${lesson.duration}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('sectionsContainer').innerHTML = sectionsHtml;
+        }
+
+        function toggleSection(sectionName) {
+            const sectionId = 'section-' + sectionName.replace(/[^a-zA-Z0-9]/g, '-');
+            const section = document.getElementById(sectionId);
+            section.classList.toggle('active');
+        }
+
+        function toggleAllSections() {
+            const sections = document.querySelectorAll('.lessons');
+            allSectionsExpanded = !allSectionsExpanded;
+            
+            sections.forEach(section => {
+                if (allSectionsExpanded) {
+                    section.classList.add('active');
+                } else {
+                    section.classList.remove('active');
+                }
+            });
+        }
+
+        async function toggleLesson(numbering, isDone) {
+            try {
+                const response = await fetch(`/api/lesson/${numbering}`, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ isDone })
+                });
+                
+                const result = await response.json();
+                
+                // Update local data
+                const lesson = courseData.lessons.find(l => l.numbering === numbering);
+                if (lesson) {
+                    lesson.isDone = isDone;
+                }
+                
+                // Update statistics
+                courseData.statistics = result.statistics;
+                courseData.sectionStats = result.sectionStats;
+                
+                // Re-render
+                renderStats();
+                renderSections();
+                
+                showToast(`Lesson ${isDone ? 'completed' : 'marked incomplete'}!`);
+            } catch (error) {
+                console.error('Failed to update lesson:', error);
+                showToast('Failed to update lesson', 'error');
+            }
+        }
+
+        async function markSectionComplete(sectionName) {
+            await updateSection(sectionName, true);
+        }
+
+        async function markSectionIncomplete(sectionName) {
+            await updateSection(sectionName, false);
+        }
+
+        async function updateSection(sectionName, isDone) {
+            try {
+                const response = await fetch(`/api/section/${sectionName}`, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ isDone })
+                });
+                
+                const result = await response.json();
+                
+                // Update local data
+                const decodedSectionName = decodeURIComponent(sectionName);
+                courseData.lessons.forEach(lesson => {
+                    if (lesson.section === decodedSectionName) {
+                        lesson.isDone = isDone;
+                    }
+                });
+                
+                // Update statistics
+                courseData.statistics = result.statistics;
+                courseData.sectionStats = result.sectionStats;
+                
+                // Re-render
+                renderStats();
+                renderSections();
+                
+                showToast(`Section ${isDone ? 'completed' : 'marked incomplete'}! (${result.updatedCount} lessons)`);
+            } catch (error) {
+                console.error('Failed to update section:', error);
+                showToast('Failed to update section', 'error');
+            }
+        }
+
+        async function markAllComplete() {
+            // Mark all lessons as complete
+            for (const lesson of courseData.lessons) {
+                if (!lesson.isDone) {
+                    await toggleLesson(lesson.numbering, true);
+                }
+            }
+        }
+
+        async function markAllIncomplete() {
+            // Mark all lessons as incomplete
+            for (const lesson of courseData.lessons) {
+                if (lesson.isDone) {
+                    await toggleLesson(lesson.numbering, false);
+                }
+            }
+        }
+
+        function refreshData() {
+            loadCourseData();
+            showToast('Data refreshed!');
+        }
+
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = `toast ${type}`;
+            toast.classList.add('show');
+            
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Load data on page load
+        loadCourseData();
+    </script>
+</body>
+</html>
