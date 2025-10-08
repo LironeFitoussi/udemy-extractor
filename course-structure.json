@@ -1,2065 +1,1337 @@
 {
   "summary": {
-    "totalLessons": 293,
-    "completedLessons": 147,
-    "lessonsRemaining": 146,
-    "totalTime": "28hr 50min",
-    "completedTime": "13hr 53min",
-    "remainingTime": "14hr 57min",
-    "lessonProgress": "50%",
-    "timeProgress": "48%"
+    "totalLessons": 189,
+    "completedLessons": 4,
+    "lessonsRemaining": 185,
+    "totalTime": "16hr 24min",
+    "completedTime": "0min",
+    "remainingTime": "16hr 24min",
+    "lessonProgress": "2%",
+    "timeProgress": "0%"
   },
   "lessons": [
     {
-      "section": "Section 1: Getting Started",
-      "lesson": "Welcome To This Course & What To Expect!",
+      "section": "Section 1: Introduction",
+      "lesson": "Overview: Practical Deep Learning",
       "numbering": 1,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "What Is React Native?",
-      "numbering": 2,
       "duration": "3min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 1: Getting Started",
-      "lesson": "Join our Online Learning Community",
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Course Materials",
+      "numbering": 2,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Installing the necessary tools (Windows)",
       "numbering": 3,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "A Glance Under The Hood Of React Native",
-      "numbering": 4,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Creating React Native Projects: Expo CLI vs React Native CLI",
-      "numbering": 5,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Creating a New React Native Project",
-      "numbering": 6,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Analyzing The Created Project",
-      "numbering": 7,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Running Our First App On A Real Device!",
-      "numbering": 8,
-      "duration": "4min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Setting Up A Local Development Environment",
-      "numbering": 9,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Course Setup",
-      "numbering": 10,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "About This Course",
-      "numbering": 11,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 1: Getting Started",
-      "lesson": "Course Resources, Code Snapshots & How To Use",
-      "numbering": 12,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Module Introduction",
-      "numbering": 13,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Exploring Core Components & Component Styling",
-      "numbering": 14,
       "duration": "8min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Working With Core Components",
-      "numbering": 15,
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Installing the necessary tools (Linux)",
+      "numbering": 4,
       "duration": "7min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Styling React Native Apps",
-      "numbering": 16,
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Installing the necessary tools (macOS)",
+      "numbering": 5,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Running a first file",
+      "numbering": 6,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "What is a model?",
+      "numbering": 7,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Quiz 1: Test your knowledge about the Foundations of Machine Learning and Models",
+      "numbering": 8,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Developing a First Neuron",
+      "numbering": 9,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Quiz 2: Test Your Knowledge of the Structure and Mathematical Model of a Neuron",
+      "numbering": 10,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "A First Tensor",
+      "numbering": 11,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Quiz 3: Test Your Knowledge of Tensors",
+      "numbering": 12,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Unpacking Tensors, Accessing Vectors",
+      "numbering": 13,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Matrix in a Tensor",
+      "numbering": 14,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "Creating a Model",
+      "numbering": 15,
       "duration": "10min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "React Native: Core Components, Styling & Colors - More Information",
+      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
+      "lesson": "The dtype of a Tensor",
+      "numbering": 16,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Introduction to Neuron Training",
       "numbering": 17,
       "duration": "1min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Exploring Layouts & Flexbox",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "What is learning?",
       "numbering": 18,
-      "duration": "3min",
-      "isDone": true
+      "duration": "7min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "React Native & Flexbox",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Quiz 4: Test your knowledge on Training Neurons and Learning Parameters",
       "numbering": 19,
-      "duration": "3min",
-      "isDone": true
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Using Flexbox To Create Layouts",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "How Neuron Learns: A Scalable Approach",
       "numbering": 20,
-      "duration": "5min",
-      "isDone": true
+      "duration": "7min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Flexbox - A Deep Dive",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Quiz 5: Test your knowledge on Loss Functions, Learning Rates, Parameter Initialization",
       "numbering": 21,
-      "duration": "12min",
-      "isDone": true
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Quiz 1: Components, Styles, Layouts",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Understanding Gradient Descent for Neuron Optimization",
       "numbering": 22,
-      "duration": "0min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Improving The Layout",
-      "numbering": 23,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Handling Events",
-      "numbering": 24,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Managing A List Of Course Goals (in our Demo App)",
-      "numbering": 25,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "iOS & Android Styling Differences",
-      "numbering": 26,
       "duration": "9min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Making Content Scrollable with ScrollView",
-      "numbering": 27,
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Quiz 6: Test your knowledge on Gradient Descent",
+      "numbering": 23,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Training a Neuron 1: Preparing and Optimizing",
+      "numbering": 24,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Optimizing Training for Our Neuron Model",
+      "numbering": 25,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Training a Neuron 2: Iterative Learning and Adjustments",
+      "numbering": 26,
       "duration": "6min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Optimizing Lists with FlatList",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Quiz 7: Test your knowledge on Data Handling and Iterative Training",
+      "numbering": 27,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "The Importance of Mean Squared Error in Model Training",
       "numbering": 28,
-      "duration": "14min",
-      "isDone": true
+      "duration": "4min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Quiz 2: More Components & Lists",
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Batch Learning and Making Predictions with PyTorch",
       "numbering": 29,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Quiz 8: Test your knowledge on Batch Learning, Loss Functions and Training Process",
+      "numbering": 30,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Making the Most of Role Plays [Beta]",
+      "numbering": 31,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
+      "lesson": "Role Play 1: [S2 & S3]: Checkpoint Call",
+      "numbering": 32,
       "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Splitting Components Into Smaller Components",
-      "numbering": 30,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Utilizing Props",
-      "numbering": 31,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Working on the \"Goal Input\" Component",
-      "numbering": 32,
-      "duration": "10min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Handling Taps with the Pressable Component",
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "[Day 3]: Introduction to Predicting Used Car Prices",
       "numbering": 33,
-      "duration": "4min",
-      "isDone": true
+      "duration": "2min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Making Items Deletable & Using IDs",
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Overview of the Used Car Price Dataset",
       "numbering": 34,
-      "duration": "5min",
-      "isDone": true
+      "duration": "3min",
+      "isDone": false
     },
     {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Adding an Android Ripple Effect & an iOS Alternative",
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Getting Started with Jupyter: Interactive Python Programming",
       "numbering": 35,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Adding a Modal Screen",
-      "numbering": 36,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Styling the Modal Overlay",
-      "numbering": 37,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Opening & Closing the Modal",
-      "numbering": 38,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Working with Images & Changing Colors",
-      "numbering": 39,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "App Finishing Touches",
-      "numbering": 40,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 2: React Native Basics [COURSE GOALS APP]",
-      "lesson": "Module Summary",
-      "numbering": 41,
-      "duration": "4min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Module Introduction",
-      "numbering": 42,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Handling Errors",
-      "numbering": 43,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Logging to the Console",
-      "numbering": 44,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Debugging JavaScript Remotely",
-      "numbering": 45,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Using the React DevTools",
-      "numbering": 46,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 3: Debugging React Native Apps (Introduction)",
-      "lesson": "Using the Documentation",
-      "numbering": 47,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Module Introduction & What We'll Build",
-      "numbering": 48,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Starting Setup & Analyzing the Target App",
-      "numbering": 49,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Setting Up our Screen Components",
-      "numbering": 50,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Creating Custom Buttons",
-      "numbering": 51,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Styling for Android & iOS",
-      "numbering": 52,
-      "duration": "11min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Styling the \"Number Input\" Element",
-      "numbering": 53,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Configuring the TextInput Field",
-      "numbering": 54,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding Visual Feedback to the Buttons",
-      "numbering": 55,
-      "duration": "16min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Improving the Buttons",
-      "numbering": 56,
       "duration": "8min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Coloring the Components & The Overall App",
-      "numbering": 57,
-      "duration": "3min",
-      "isDone": true
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 9: Test your knowledge on Used Car Dataset and Jupyter",
+      "numbering": 36,
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding a Linear Gradient",
-      "numbering": 58,
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Exploring the Used Car Dataset with Pandas",
+      "numbering": 37,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Investigating Key Data Relationships for Model Training",
+      "numbering": 38,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 10: Test your knowledge on Data Exploration and Preparation with Pandas",
+      "numbering": 39,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Finalizing Input and Target Columns for Model Training",
+      "numbering": 40,
       "duration": "4min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding a Background Image",
-      "numbering": 59,
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Structuring Data for Model Input and Running an Initial Prediction",
+      "numbering": 41,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Training the Model: Initial Setup and Challenges",
+      "numbering": 42,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 11: Test your knowledge on Data Preparation and Initial Neuron Training Steps",
+      "numbering": 43,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "[Day 4]: Understanding Output Normalization for Stable Learning",
+      "numbering": 44,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Implementing Output Normalization in PyTorch for Consistent Predictions",
+      "numbering": 45,
       "duration": "7min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Getting Started with the Game Logic",
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 12: Test your knowledge on Output Data Normalization",
+      "numbering": 46,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Understanding Input Normalization for Consistent Training",
+      "numbering": 47,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Implementing Input Normalization in PyTorch for Improved Predictions",
+      "numbering": 48,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 13: Test your knowledge on Input Data Normalization",
+      "numbering": 49,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Experimenting with Training Parameters Through Loss Visualization",
+      "numbering": 50,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Saving and Loading Model in PyTorch",
+      "numbering": 51,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Quiz 14: Test your knowledge on Data Preparation, Model Training and Evaluation",
+      "numbering": 52,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Exercise: Adding an Additional Column to the Model",
+      "numbering": 53,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
+      "lesson": "Solution: Adding an Additional Column to the Model",
+      "numbering": 54,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "[Day 5]: Introduction to Spam Detection",
+      "numbering": 55,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Exploring and Preprocessing the SMS Spam Dataset",
+      "numbering": 56,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Using Count Vectorizer to Transform Text into Numerical Data",
+      "numbering": 57,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 15: Test your knowledge on Spam Detection and Text Preprocessing",
+      "numbering": 58,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optional / Extra: Exploring TF-IDF Vectorizer for Improved Text Preprocessing",
+      "numbering": 59,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Training the Model for Spam Classification",
       "numbering": 60,
       "duration": "7min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Handling User Input & Showing an Alert Dialog",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optimizing Training for Our Neuron Classifier",
       "numbering": 61,
-      "duration": "8min",
-      "isDone": true
+      "duration": "1min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Switching Screens Programmatically",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Understanding the Sigmoid Activation Function for Probability Output",
       "numbering": 62,
-      "duration": "7min",
-      "isDone": true
+      "duration": "4min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Starting Work on the Game Screen",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 16: Test your knowledge on Model Training and Sigmoid Function for Spam Detection",
       "numbering": 63,
-      "duration": "5min",
-      "isDone": true
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Respecting Device Screen Restrictions with the SafeAreaView",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Switching to Binary Cross Entropy Loss for Effective Training",
       "numbering": 64,
-      "duration": "3min",
-      "isDone": true
+      "duration": "5min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Creating a Title Component",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Using BCE with Sigmoid for Loss Calculation and Prediction",
       "numbering": 65,
-      "duration": "5min",
-      "isDone": true
+      "duration": "4min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Managing Colors Globally",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Evaluating Model with Key Performance Metrics",
       "numbering": 66,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Creating, Using & Displaying Random Numbers",
-      "numbering": 67,
-      "duration": "13min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding Game Control Buttons (\"+\" & \"-\") to the App",
-      "numbering": 68,
       "duration": "15min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Checking for \"Game Over\"",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 17: Test your knowledge on Loss Functions and Evaluation Metrics in Spam Detection",
+      "numbering": 67,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "[Day 6]: Understanding Training, Validation and Test Data in Model Development",
+      "numbering": 68,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Implementing Training and Validation Data Splits in Python",
       "numbering": 69,
-      "duration": "11min",
-      "isDone": true
+      "duration": "14min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Improving the Game Screen Visuals",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Applying and Evaluating the Model on Fresh Data",
       "numbering": 70,
-      "duration": "12min",
-      "isDone": true
+      "duration": "5min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Using \"Cascading Styles\"",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 18: Test your knowledge on Data Segmentation in Model Development",
       "numbering": 71,
-      "duration": "6min",
-      "isDone": true
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Working with Icons (Button Icons)",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optional / extra: Improving Spam Detection with Large Language Model Embeddings",
       "numbering": 72,
-      "duration": "4min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding & Using Custom Fonts with React Native Apps",
-      "numbering": 73,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding a (Foreground) Image",
-      "numbering": 74,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Using & Styling Nested Text",
-      "numbering": 75,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Adding Logic to (Re-)Start Games & Displaying a Summary Screen",
-      "numbering": 76,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Logging Game Rounds",
-      "numbering": 77,
       "duration": "6min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Outputting Log Data with FlatList",
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optional / extra: Generating Embeddings with BART for Spam Detection",
+      "numbering": 73,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optional / extra: Building a Function to Generate Embeddings for Spam Detection",
+      "numbering": 74,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Optional / extra: Integrating Embeddings into the Spam Filter",
+      "numbering": 75,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 19: Optional / extra: Test your knowledge on Enhancing Detection with LLM Embeddings",
+      "numbering": 76,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Quiz 20: Test your knowledge on Spam Detection Techniques",
+      "numbering": 77,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
+      "lesson": "Role Play 2: [S4 & S5]: Model Results Review",
       "numbering": 78,
-      "duration": "3min",
+      "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Styling the Game Round Logs",
+      "section": "Section 6: [Day 6]: Exam",
+      "lesson": "Practice Test 1: PRACTICE EXAM: Test your knowledge so far (1/2)",
       "numbering": 79,
-      "duration": "8min",
-      "isDone": true
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Finishing Touches",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "[Day 7]: From Single Neuron to Neural Networks",
       "numbering": 80,
-      "duration": "5min",
-      "isDone": true
+      "duration": "2min",
+      "isDone": false
     },
     {
-      "section": "Section 4: Diving Deeper into Components, Layouts & Styling - Building a Mini-Game App",
-      "lesson": "Module Summary",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optional: Understanding Activation Functions in Neural Networks",
       "numbering": 81,
-      "duration": "3min",
-      "isDone": true
+      "duration": "6min",
+      "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Module Introduction",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optional / extra: Exploring Nonlinearity and Its Impact on Neural Networks",
       "numbering": 82,
-      "duration": "4min",
+      "duration": "9min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Setting Dynamic Widths",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Understanding Backpropagation in Neural Networks",
       "numbering": 83,
-      "duration": "4min",
+      "duration": "3min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Introducing the Dimensions API",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optional: Decoding the Mathematics of Backpropagation",
       "numbering": 84,
       "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Adjusting Image Sizes with the Dimensions API",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Quiz 21: Test your knowledge on Neural Network Fundamentals",
       "numbering": 85,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Analyzing Student Performance Data for Exam Predictions",
+      "numbering": 86,
       "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Understanding Screen Orientation Problems",
-      "numbering": 86,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Setting Sizes Dynamically (for different Orientations)",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optional: Applying a Single Neuron to Student Exam Data",
       "numbering": 87,
-      "duration": "8min",
+      "duration": "13min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Managing Screen Content with KeyboardAvoidingView",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Building and Training Our First Neural Network",
       "numbering": 88,
-      "duration": "6min",
+      "duration": "13min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Improving the Landscape Mode UI",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optimizing Training for Our Neural Network Classifier",
       "numbering": 89,
-      "duration": "8min",
+      "duration": "1min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Quiz 3: The Dimensions API & Responsive UIs",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Quiz 22: Test your knowledge on Data Analysis and Neural Network Training",
       "numbering": 90,
       "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Further Improvements with useWindowDimensions",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Evaluating Neural Network Performance",
       "numbering": 91,
       "duration": "5min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Writing Platform-specific Code with the Platform API",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Simplifying the Code with nn.Sequential",
       "numbering": 92,
-      "duration": "9min",
+      "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 5: Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)",
-      "lesson": "Styling the Status Bar",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Quiz 23: Test your knowledge on Neural Network Application Techniques",
       "numbering": 93,
-      "duration": "2min",
+      "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Module Introduction",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "[Day 8]: Introducing ReLU Activation Function",
       "numbering": 94,
-      "duration": "1min",
+      "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "What Is Navigation?",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optimizing Training with Adam",
       "numbering": 95,
-      "duration": "4min",
+      "duration": "8min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Getting Started with the App & Outputting Meal Categories",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Quiz 24: Test your knowledge on Optimizing Neural Networks with ReLU and Adam",
       "numbering": 96,
-      "duration": "10min",
+      "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Displaying Items in a Grid",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Implementing Mini-Batch Learning for Efficient Training",
       "numbering": 97,
-      "duration": "14min",
+      "duration": "12min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Getting Started with the React Navigation Package",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Optimizing Loss Tracking in Mini-Batch Training",
       "numbering": 98,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Implementing Navigation Between Two Screens",
-      "numbering": 99,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Setting the Default Screen",
-      "numbering": 100,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Understanding the useNavigation Hook",
-      "numbering": 101,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Working with Route Parameters To Pass Data Between Screens",
-      "numbering": 102,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Displaying Meals",
-      "numbering": 103,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding Images & Styling",
-      "numbering": 104,
-      "duration": "17min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Styling Screen Headers & Backgrounds",
-      "numbering": 105,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Setting Navigation Options Dynamically",
-      "numbering": 106,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding & Configuring the Meal Details Screen",
-      "numbering": 107,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Outputting Content in the Meal Detail Screen",
-      "numbering": 108,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Finishing the Meal Detail Screen",
-      "numbering": 109,
-      "duration": "19min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding Header Buttons",
-      "numbering": 110,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding an Icon Button to a Header",
-      "numbering": 111,
       "duration": "5min",
       "isDone": false
     },
     {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding Drawer Navigation & Creating a Drawer",
+      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
+      "lesson": "Quiz 25: Test your knowledge on Essential Neural Network Concepts",
+      "numbering": 99,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
+      "lesson": "Introduction to Loan Approval Prediction",
+      "numbering": 100,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
+      "lesson": "Exploring the Loan Approval Dataset",
+      "numbering": 101,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
+      "lesson": "Solution Part 1: Preparing Data for the Loan Approval Model",
+      "numbering": 102,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
+      "lesson": "Solution Part 2: Building and Training the Loan Approval Model",
+      "numbering": 103,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "[Day 9]: Introduction to Handwritten Digit Classification",
+      "numbering": 104,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Exploring MNIST Data with TorchVision",
+      "numbering": 105,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "From Dataset to DataLoader: Preparing Data for Neural Network",
+      "numbering": 106,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 26: Test your knowledge on Data Preparation for Neural Network Training",
+      "numbering": 107,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Building a Binary Classifier for 0 Detection",
+      "numbering": 108,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Evaluating the Binary Classifier for 0 Detection",
+      "numbering": 109,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 27: Test your knowledge on Binary Classifier Essentials",
+      "numbering": 110,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Multi-Class Classification in Neural Networks",
+      "numbering": 111,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Understanding One-Hot Encoding",
       "numbering": 112,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Configuring the Drawer Navigator & The Drawer",
-      "numbering": 113,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Adding, Configuring & Using Bottom Tabs",
-      "numbering": 114,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Nesting Navigators",
-      "numbering": 115,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "App Finishing Touches",
-      "numbering": 116,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 6: React Native Navigation with React Navigation [MEALS APP]",
-      "lesson": "Module Summary",
-      "numbering": 117,
       "duration": "3min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Module Introduction",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 28: Test your knowledge on Preparing Data for Multi-Class Classification",
+      "numbering": 113,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Training a Neural Network for Multi-Class Classification",
+      "numbering": 114,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Optimizing Training for Our Neural Network Multi-Class Classifier",
+      "numbering": 115,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Evaluating a Neural Network for Multi-Class Classification",
+      "numbering": 116,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 29: Test your knowledge on Neural Network Adjustments for Multi-Class Classification",
+      "numbering": 117,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "[Day 10]: Understanding Softmax for Class Probability Normalization",
       "numbering": 118,
       "duration": "3min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Getting Started with React's Context API",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Applying Softmax in Neural Network",
       "numbering": 119,
-      "duration": "5min",
+      "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Managing App-wide State with Context",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Experimenting with Different Neural Network Architectures",
       "numbering": 120,
-      "duration": "5min",
+      "duration": "8min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Using the Created Context with useContext",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 30: Test your knowledge on Softmax and Network Architecture",
       "numbering": 121,
-      "duration": "5min",
+      "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Managing Favorite Meals with the Context API",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Understanding Overfitting in Neural Networks",
       "numbering": 122,
-      "duration": "10min",
+      "duration": "5min",
       "isDone": false
     },
     {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Getting Started with Redux & Redux Toolkit",
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Demonstrating Overfitting in Neural Network Training",
       "numbering": 123,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Working with Redux Slices",
-      "numbering": 124,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Managing Redux State & Dispatching Actions",
-      "numbering": 125,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Using Redux State in Components",
-      "numbering": 126,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: App-wide State Management with Redux & Context API",
-      "lesson": "Module Summary",
-      "numbering": 127,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Module Introduction & What We'll Build",
-      "numbering": 128,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "The Starting Setup",
-      "numbering": 129,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding Navigation (with React Navigation) & Configuring Navigation",
-      "numbering": 130,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding Global Colors & Editing Navigation Configuration",
-      "numbering": 131,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Creating Key App Components to Display Expenses",
-      "numbering": 132,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Continuing Work on the Expense-related Components",
-      "numbering": 133,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding Dummy Expense Data",
-      "numbering": 134,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Outputting a List of Expenses",
-      "numbering": 135,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Improving App Layout & Styling",
-      "numbering": 136,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Working on Expense List Items",
-      "numbering": 137,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Formatting Dates",
-      "numbering": 138,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding a Header Button & Making Expense Items Tappable",
-      "numbering": 139,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Navigating Programmatically Between Screens",
-      "numbering": 140,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Styling The Expense Management Screen",
-      "numbering": 141,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Supporting Different Editing Modes & Using Route Parameters",
-      "numbering": 142,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding a \"Delete\" Button",
-      "numbering": 143,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Adding Custom Buttons",
-      "numbering": 144,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Closing A Modal Programmatically",
-      "numbering": 145,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Managing App-wide State With Context",
-      "numbering": 146,
-      "duration": "18min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Using Context From Inside Components",
-      "numbering": 147,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Deleting & Updating Expenses",
-      "numbering": 148,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: Time To Practice - The Expense Tracker App",
-      "lesson": "Finishing Touches",
-      "numbering": 149,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Module Introduction",
-      "numbering": 150,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Building a Custom Input Component",
-      "numbering": 151,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Creating an Overall Form",
-      "numbering": 152,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Configuring the Form Input Elements",
-      "numbering": 153,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Adding Styling",
-      "numbering": 154,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Setting the Form Layout",
-      "numbering": 155,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Handling User Input in a Generic Way",
-      "numbering": 156,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Managing Form State & Submission",
-      "numbering": 157,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Working with Entered Data",
-      "numbering": 158,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Setting & Using Default Values",
-      "numbering": 159,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Adding Validation",
-      "numbering": 160,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Providing Visual Validation Feedback",
-      "numbering": 161,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Adding Error Styling",
-      "numbering": 162,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: Handling User Input",
-      "lesson": "Module Summary",
-      "numbering": 163,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Module Introduction",
-      "numbering": 164,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Backend Setup (Firebase)",
-      "numbering": 165,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Installing Axios",
-      "numbering": 166,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Sending POST Http Requests",
-      "numbering": 167,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Fetching Backend Data (GET Requests)",
-      "numbering": 168,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Transforming & Using Fetched Data",
-      "numbering": 169,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Using Response Data from POST Requests",
-      "numbering": 170,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Updating & Deleting Backend Data (UPDATE & DELETE Requests)",
-      "numbering": 171,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Managing the Loading State",
-      "numbering": 172,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Handling Request Errors",
-      "numbering": 173,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: Sending Http Requests",
-      "lesson": "Module Summary",
-      "numbering": 174,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Module Introduction",
-      "numbering": 175,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Demo App Walkthrough",
-      "numbering": 176,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "How Does Authentication Work?",
-      "numbering": 177,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Backend Setup",
-      "numbering": 178,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Controlling Signup & Login Screens",
-      "numbering": 179,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Sending Authentication Requests to the Backend",
-      "numbering": 180,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Creating New Users",
-      "numbering": 181,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Logging Users In",
-      "numbering": 182,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Authentication Error Handling",
-      "numbering": 183,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Storing & Managing the User Authentication State (with Context)",
-      "numbering": 184,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Extracting the Authentication Token",
-      "numbering": 185,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Protecting Screens",
-      "numbering": 186,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Adding a Logout Functionality",
-      "numbering": 187,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Accessing Protected Resources",
-      "numbering": 188,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Storing Auth Tokens on the Device & Logging Users In Automatically",
-      "numbering": 189,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "A Note About Token Expiration",
-      "numbering": 190,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: User Authentication",
-      "lesson": "Module Summary",
-      "numbering": 191,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Module Introduction",
-      "numbering": 192,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding a \"Favorite Places\" List",
-      "numbering": 193,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Editing the Favorite Place Items",
-      "numbering": 194,
-      "duration": "8min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding an \"Add Place\" Screen + Navigation",
-      "numbering": 195,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding a Header Button",
-      "numbering": 196,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Global Colors & Styling",
-      "numbering": 197,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Getting Started with a Custom Form",
-      "numbering": 198,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding & Configuring the Camera Package (for Native Camera Access)",
-      "numbering": 199,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Taking Photos on Android",
-      "numbering": 200,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Taking Photos on iOS + Managing Permissions",
-      "numbering": 201,
-      "duration": "8min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Showing an Image Preview",
-      "numbering": 202,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Creating a Custom Button",
-      "numbering": 203,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Getting Started with the Location Picker",
-      "numbering": 204,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Locating Users",
-      "numbering": 205,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding a Location Preview Map",
-      "numbering": 206,
-      "duration": "12min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding an Interactive Map (Google Maps & Apple Maps)",
-      "numbering": 207,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Allowing Map Interaction & Adding Markers",
-      "numbering": 208,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Confirming Picked Locations",
-      "numbering": 209,
-      "duration": "8min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Previewing Picked Locations",
-      "numbering": 210,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding a Form Submit Button",
-      "numbering": 211,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Managing Location & Image State in the Form",
-      "numbering": 212,
-      "duration": "10min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Converting Picked Locations to Human-Readable Addresses",
-      "numbering": 213,
-      "duration": "10min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Passing Entered Data to the \"AllPlaces\" Screen",
-      "numbering": 214,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Outputting a List Of Places",
-      "numbering": 215,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Styling Place Items",
-      "numbering": 216,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "SQLite: Getting Started & Initialization",
-      "numbering": 217,
-      "duration": "16min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Preparing Code to Insert Data into the SQLite Database",
-      "numbering": 218,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Inserting Places into the Database",
-      "numbering": 219,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Fetching Places from the Database",
-      "numbering": 220,
-      "duration": "10min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Adding the Place Details Screen",
-      "numbering": 221,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Fetching Place Detail Data from the Database",
-      "numbering": 222,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Showing a Readonly Map",
-      "numbering": 223,
-      "duration": "9min",
-      "isDone": true
-    },
-    {
-      "section": "Section 12: Using Native Device Features (Camera, Location & More)",
-      "lesson": "Module Summary",
-      "numbering": 224,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Module Introduction",
-      "numbering": 225,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "How Exactly Does Expo Work?",
-      "numbering": 226,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Expo Alternatives",
-      "numbering": 227,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Setting Up Our System",
-      "numbering": 228,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Using Expo's Bare Workflow",
-      "numbering": 229,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Using Native Device Features with the Bare Workflow",
-      "numbering": 230,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Ejecting To The Bare Workflow",
-      "numbering": 231,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Creating Projects with the React Native CLI (no Expo)",
-      "numbering": 232,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Non-Expo Apps & Native Device Features",
-      "numbering": 233,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 13: Building React Native Apps Without Expo",
-      "lesson": "Module Summary",
-      "numbering": 234,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Module Introduction",
-      "numbering": 235,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Publishing Apps: An Overview",
-      "numbering": 236,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Key Configuration Items & Considerations",
-      "numbering": 237,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Configuring App Names & Versions",
-      "numbering": 238,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "A Quick Note About Environment Variables",
-      "numbering": 239,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Adding Icons & A Splash Screen",
-      "numbering": 240,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Building Expo Apps with EAS",
-      "numbering": 241,
-      "duration": "15min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "EAS for iOS (even on Windows Devices)",
-      "numbering": 242,
       "duration": "17min",
       "isDone": false
     },
     {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Building for iOS Without Expo",
-      "numbering": 243,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Building for Android Without Expo",
-      "numbering": 244,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 14: Publishing React Native Apps",
-      "lesson": "Configuring Android Apps",
-      "numbering": 245,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Module Introduction",
-      "numbering": 246,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "What are (Local) Notifications?",
-      "numbering": 247,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Adding the Expo Notification Package",
-      "numbering": 248,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Scheduling Notifications",
-      "numbering": 249,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Configuring Scheduled Notifications",
-      "numbering": 250,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Handling Incoming Notifications",
-      "numbering": 251,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Local Notifications - Permissions",
-      "numbering": 252,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Reacting To Incoming Notifications",
-      "numbering": 253,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Reacting To User Interaction With Incoming Notifications",
-      "numbering": 254,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Understanding Push Notifications",
-      "numbering": 255,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Push Notifications Setup",
-      "numbering": 256,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Using the Push Token",
-      "numbering": 257,
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Strategies to Counter Overfitting",
+      "numbering": 124,
       "duration": "9min",
       "isDone": false
     },
     {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Sending Push Notifications",
-      "numbering": 258,
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 31: Test your knowledge on Overfitting in Neural Network",
+      "numbering": 125,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Optional / extra: Applying a Neural Network to Custom Images",
+      "numbering": 126,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Optional / extra: Overcoming Preprocessing Challenges in Model Application",
+      "numbering": 127,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Quiz 32: Test your knowledge on Multi-Class Classifier Fundamentals",
+      "numbering": 128,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
+      "lesson": "Role Play 3: [S7 & S9]: Model Scaling Check-In",
+      "numbering": 129,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "[Day 11]: Introduction to Convolutional Neural Networks",
+      "numbering": 130,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Exploring Fashion MNIST Data",
+      "numbering": 131,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optional: Assessing Previous Model Performance on Fashion MNIST Data",
+      "numbering": 132,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Exploring Edge Detection with the Sobel Operator",
+      "numbering": 133,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 33: Test your knowledge on CNN Basics and Image Processing",
+      "numbering": 134,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Understanding the Structure of Convolutional Neural Networks for Edge Detection",
+      "numbering": 135,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Part 1: Implementing a CNN",
+      "numbering": 136,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Part 2: Advancing CNN Implementation",
+      "numbering": 137,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 34: Test your knowledge on CNN Architecture and Functionality",
+      "numbering": 138,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optimizing Training for Our CNN",
+      "numbering": 139,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Reducing CNN Complexity with Max Pooling",
+      "numbering": 140,
       "duration": "9min",
       "isDone": false
     },
     {
-      "section": "Section 15: Push Notifications",
-      "lesson": "Module Summary",
-      "numbering": 259,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 35: Test your knowledge on Max Pooling in CNNs",
+      "numbering": 141,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Utilizing GPU Acceleration with PyTorch",
+      "numbering": 142,
       "duration": "2min",
       "isDone": false
     },
     {
-      "section": "Section 16: Course Roundup",
-      "lesson": "Course Roundup",
-      "numbering": 260,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Module Introduction",
-      "numbering": 261,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "JavaScript - A Summary",
-      "numbering": 262,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Project Setup",
-      "numbering": 263,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Core Syntax Refresher",
-      "numbering": 264,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optional: Enabling CUDA on NVIDIA GPUs",
+      "numbering": 143,
       "duration": "5min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "let & const",
-      "numbering": 265,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Arrow Functions",
-      "numbering": 266,
-      "duration": "5min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Objects: Properties & Methods",
-      "numbering": 267,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Leveraging Google Colab's Free GPU",
+      "numbering": 144,
       "duration": "3min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Arrays & Array Methods",
-      "numbering": 268,
-      "duration": "4min",
-      "isDone": true
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optimizing Tensor Computations on GPU",
+      "numbering": 145,
+      "duration": "9min",
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Arrays, Objects & Reference Types",
-      "numbering": 269,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Spread Operator & Rest Parameters",
-      "numbering": 270,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Running Simple Model on GPU",
+      "numbering": 146,
       "duration": "7min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Destructuring",
-      "numbering": 271,
-      "duration": "6min",
-      "isDone": true
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Accelerating CNN Execution Speed with GPU",
+      "numbering": 147,
+      "duration": "7min",
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Async Code & Promises",
-      "numbering": 272,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 36: Test your knowledge on Utilizing GPUs with PyTorch",
+      "numbering": 148,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "[Day 12]: Advancing CNN Complexity",
+      "numbering": 149,
       "duration": "10min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Wrap Up",
-      "numbering": 273,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 17: Bonus: JavaScript Refresher",
-      "lesson": "Module Resources",
-      "numbering": 274,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Module Introduction",
-      "numbering": 275,
-      "duration": "1min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "What is React",
-      "numbering": 276,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "A Starting Project",
-      "numbering": 277,
-      "duration": "4min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Understanding JSX",
-      "numbering": 278,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Understanding Components",
-      "numbering": 279,
-      "duration": "3min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Working with Multiple Components",
-      "numbering": 280,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Working with Props",
-      "numbering": 281,
-      "duration": "7min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Rendering Lists of Data",
-      "numbering": 282,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Enhancing CNN Performance with Increased Filter Complexity",
+      "numbering": 150,
       "duration": "5min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Handling Events",
-      "numbering": 283,
-      "duration": "7min",
-      "isDone": true
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 37: Test your knowledge on CNN Layer Configurations",
+      "numbering": 151,
+      "duration": "0min",
+      "isDone": false
     },
     {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Parent-Child Communication",
-      "numbering": 284,
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Introducing Dropout for Improved Generalization",
+      "numbering": 152,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optimizing CNN with Dropout Layers",
+      "numbering": 153,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Refining CNN with Batch Normalization",
+      "numbering": 154,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 38: Test your knowledge on Dropout and Batch Normalization",
+      "numbering": 155,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optional: Understanding the Mathematics of Batch Normalization",
+      "numbering": 156,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Optional / extra: Application of Overfitting Detection and Model Finalization",
+      "numbering": 157,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
+      "lesson": "Quiz 39: Test your knowledge on Key CNN Techniques",
+      "numbering": 158,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "[Day 13]: Introduction to Transfer Learning and Tire Quality Prediction",
+      "numbering": 159,
       "duration": "5min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Managing State",
-      "numbering": 285,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "More on State",
-      "numbering": 286,
-      "duration": "4min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "User Input & Two-Way Binding",
-      "numbering": 287,
-      "duration": "6min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Wrap Up",
-      "numbering": 288,
-      "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 18: Bonus: React.js Refresher",
-      "lesson": "Module Resources",
-      "numbering": 289,
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Preparing the Tire Quality Dataset",
+      "numbering": 160,
       "duration": "1min",
-      "isDone": true
+      "isDone": false
     },
     {
-      "section": "Section 19: Bonus",
-      "lesson": "Legacy Course Content",
-      "numbering": 290,
-      "duration": "1min",
-      "isDone": true
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Exploring the Tire Quality Dataset",
+      "numbering": 161,
+      "duration": "3min",
+      "isDone": false
     },
     {
-      "section": "Section 19: Bonus",
-      "lesson": "This Course Was Updated | Update Information",
-      "numbering": 291,
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "An Introduction to ResNet in Transfer Learning",
+      "numbering": 162,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Using ResNet-50 to Classify an Image of a Cat",
+      "numbering": 163,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Quiz 40: Test your knowledge of Transfer Learning and ResNet",
+      "numbering": 164,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Optional / extra: Exploring the ResNet Research Paper",
+      "numbering": 165,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Preparing Data for ResNet Training",
+      "numbering": 166,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Part 1: Customizing ResNet-50 for Tire Quality Prediction",
+      "numbering": 167,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Part 2: Building a Transfer Learning Model for Tire Quality Prediction",
+      "numbering": 168,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Quiz 41: Test your knowledge on Preparing and Modifying ResNet for Transfer Learning",
+      "numbering": 169,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "[Day 14]: Part 3: Training the Transfer Learning Model",
+      "numbering": 170,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Part 4: Evaluating Model Performance and Addressing Overfitting",
+      "numbering": 171,
+      "duration": "17min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Quiz 42: Test your knowledge on Training and Evaluating a Transfer Learning Model",
+      "numbering": 172,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Data Augmentation for Combating Overfitting",
+      "numbering": 173,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Integrating Data Augmentation into Model Training for Improved Accuracy",
+      "numbering": 174,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Quiz 43: Test your knowledge on Enhancing Models with Data Augmentation",
+      "numbering": 175,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Adapting Model Weights for Universal Compatibility",
+      "numbering": 176,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Using the Trained Model to Predict Tire Quality",
+      "numbering": 177,
+      "duration": "14min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Testing Approaches for Tire Model Deployment",
+      "numbering": 178,
       "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
+      "lesson": "Quiz 44: Test your knowledge on Tire Quality Prediction and Transfer Learning",
+      "numbering": 179,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Introduction to Deploying AI Models with Gradio",
+      "numbering": 180,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Getting Started with Gradio for Simple AI Apps",
+      "numbering": 181,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Uploading and Processing Images with Gradio",
+      "numbering": 182,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Quiz 45: Test your knowledge on Gradio and AI Model Integration",
+      "numbering": 183,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Integrating Gradio with PyTorch for Predictions",
+      "numbering": 184,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Deploying Gradio for Real-World Tire Predictions",
+      "numbering": 185,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Quiz 46: Test your knowledge on Real-World Testing of Gradio Apps",
+      "numbering": 186,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
+      "lesson": "Role Play 4: [S10, S11 & S12]: Planning the Wildlife Detection App",
+      "numbering": 187,
+      "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 19: Bonus",
-      "lesson": "Course Update Information & FAQs",
-      "numbering": 292,
+      "section": "Section 13: [Day 15]: Exam",
+      "lesson": "Practice Test 2: PRACTICE EXAM: Test your knowledge so far (2/2)",
+      "numbering": 188,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: Closing words",
+      "lesson": "Closing words",
+      "numbering": 189,
       "duration": "2min",
-      "isDone": true
-    },
-    {
-      "section": "Section 19: Bonus",
-      "lesson": "Bonus: More Content!",
-      "numbering": 293,
-      "duration": "1min",
-      "isDone": true
+      "isDone": false
     }
   ]
 }
