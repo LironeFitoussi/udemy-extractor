@@ -1,1336 +1,2596 @@
 {
   "summary": {
-    "totalLessons": 189,
-    "completedLessons": 4,
-    "lessonsRemaining": 185,
-    "totalTime": "16hr 24min",
-    "completedTime": "0min",
-    "remainingTime": "16hr 24min",
-    "lessonProgress": "2%",
-    "timeProgress": "0%"
+    "totalLessons": 369,
+    "completedLessons": 121,
+    "lessonsRemaining": 248,
+    "totalTime": "32hr 58min",
+    "completedTime": "7hr 23min",
+    "remainingTime": "25hr 35min",
+    "lessonProgress": "33%",
+    "timeProgress": "22%"
   },
   "lessons": [
     {
-      "section": "Section 1: Introduction",
-      "lesson": "Overview: Practical Deep Learning",
+      "section": "Section 1: Course Introduction",
+      "lesson": "Welcome and motivation!",
       "numbering": 1,
-      "duration": "3min",
-      "isDone": false
+      "duration": "2min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Course Materials",
+      "section": "Section 1: Course Introduction",
+      "lesson": "How to make best use of this course",
       "numbering": 2,
-      "duration": "1min",
-      "isDone": false
+      "duration": "7min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Installing the necessary tools (Windows)",
+      "section": "Section 1: Course Introduction",
+      "lesson": "Aligning expectations",
       "numbering": 3,
-      "duration": "8min",
-      "isDone": false
+      "duration": "4min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Installing the necessary tools (Linux)",
+      "section": "Section 1: Course Introduction",
+      "lesson": "Let's Stay Connected",
       "numbering": 4,
-      "duration": "7min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Installing the necessary tools (macOS)",
+      "section": "Section 1: Course Introduction",
+      "lesson": "Course resources",
       "numbering": 5,
-      "duration": "7min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Running a first file",
+      "section": "Section 1: Course Introduction",
+      "lesson": "UPDATE - Quizzes and Role Play",
       "numbering": 6,
-      "duration": "6min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "What is a model?",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Section Introduction",
       "numbering": 7,
-      "duration": "3min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Quiz 1: Test your knowledge about the Foundations of Machine Learning and Models",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Why Using Containers?",
       "numbering": 8,
-      "duration": "0min",
-      "isDone": false
+      "duration": "8min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Developing a First Neuron",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Containers and Virtual Machines (VMs)",
       "numbering": 9,
-      "duration": "8min",
-      "isDone": false
+      "duration": "6min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Quiz 2: Test Your Knowledge of the Structure and Mathematical Model of a Neuron",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Docker Architecture and Components",
       "numbering": 10,
-      "duration": "0min",
-      "isDone": false
+      "duration": "7min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "A First Tensor",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Quiz 1: Docker Fundamentals: Containers, VMs, and Core Components",
       "numbering": 11,
-      "duration": "8min",
-      "isDone": false
+      "duration": "0min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Quiz 3: Test Your Knowledge of Tensors",
+      "section": "Section 2: [Docker] Introduction to Containers",
+      "lesson": "Role Play 1: Whiteboarding the Docker Architecture for a New Team Member",
       "numbering": 12,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Unpacking Tensors, Accessing Vectors",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "Section Introduction",
       "numbering": 13,
-      "duration": "4min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Matrix in a Tensor",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[MacOS Users] Installing Docker on MacOS",
       "numbering": 14,
-      "duration": "6min",
-      "isDone": false
+      "duration": "2min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "Creating a Model",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Linux Users] Installing Docker on Linux",
       "numbering": 15,
-      "duration": "10min",
-      "isDone": false
+      "duration": "5min",
+      "isDone": true
     },
     {
-      "section": "Section 2: [Day 1]: Foundations of Neural Networks: From Models and Neurons to Tensors",
-      "lesson": "The dtype of a Tensor",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Linux Users] Running Docker without Sudo",
       "numbering": 16,
-      "duration": "12min",
-      "isDone": false
+      "duration": "2min",
+      "isDone": true
     },
     {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Introduction to Neuron Training",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Windows Users] Note about enabling the WSL Windows feature",
       "numbering": 17,
       "duration": "1min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "What is learning?",
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Windows Users] Installing Windows Subsystem for Linux (WSL)",
       "numbering": 18,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Quiz 4: Test your knowledge on Training Neurons and Learning Parameters",
-      "numbering": 19,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "How Neuron Learns: A Scalable Approach",
-      "numbering": 20,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Quiz 5: Test your knowledge on Loss Functions, Learning Rates, Parameter Initialization",
-      "numbering": 21,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Understanding Gradient Descent for Neuron Optimization",
-      "numbering": 22,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Quiz 6: Test your knowledge on Gradient Descent",
-      "numbering": 23,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Training a Neuron 1: Preparing and Optimizing",
-      "numbering": 24,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Optimizing Training for Our Neuron Model",
-      "numbering": 25,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Training a Neuron 2: Iterative Learning and Adjustments",
-      "numbering": 26,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Quiz 7: Test your knowledge on Data Handling and Iterative Training",
-      "numbering": 27,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "The Importance of Mean Squared Error in Model Training",
-      "numbering": 28,
       "duration": "4min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Batch Learning and Making Predictions with PyTorch",
-      "numbering": 29,
-      "duration": "10min",
-      "isDone": false
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Windows Users] Windows Subsystem for Linux Features",
+      "numbering": 19,
+      "duration": "6min",
+      "isDone": true
     },
     {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Quiz 8: Test your knowledge on Batch Learning, Loss Functions and Training Process",
-      "numbering": 30,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Making the Most of Role Plays [Beta]",
-      "numbering": 31,
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Windows Users] Installing Docker in Windows",
+      "numbering": 20,
       "duration": "2min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 3: [Day 2]: Neuron Training: From Adjusting Parameters to Batch Learning",
-      "lesson": "Role Play 1: [S2 & S3]: Checkpoint Call",
-      "numbering": 32,
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "[Windows Users] Using Docker in Windows Subsystem for Linux (WSL)",
+      "numbering": 21,
+      "duration": "2min",
+      "isDone": true
+    },
+    {
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "Exploring Play with Docker",
+      "numbering": 22,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "Installing NodeJS",
+      "numbering": 23,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "Installing Postman",
+      "numbering": 24,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 3: [Docker] Installing Docker and Necessary Tools",
+      "lesson": "Installing Visual Studio Code",
+      "numbering": 25,
+      "duration": "2min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Section Introduction",
+      "numbering": 26,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Hands-On: Running Your First Container",
+      "numbering": 27,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "The Container Lifecycle",
+      "numbering": 28,
+      "duration": "7min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Hands-On: Working with the Docker CLI - Part 1",
+      "numbering": 29,
+      "duration": "12min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Hands-On: Working with the Docker CLI - Part 2",
+      "numbering": 30,
+      "duration": "10min",
+      "isDone": true
+    },
+    {
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Role Play 2: Explaining the Container Lifecycle",
+      "numbering": 31,
       "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "[Day 3]: Introduction to Predicting Used Car Prices",
-      "numbering": 33,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Overview of the Used Car Price Dataset",
-      "numbering": 34,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Getting Started with Jupyter: Interactive Python Programming",
-      "numbering": 35,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 9: Test your knowledge on Used Car Dataset and Jupyter",
-      "numbering": 36,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Exploring the Used Car Dataset with Pandas",
-      "numbering": 37,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Investigating Key Data Relationships for Model Training",
-      "numbering": 38,
-      "duration": "15min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 10: Test your knowledge on Data Exploration and Preparation with Pandas",
-      "numbering": 39,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Finalizing Input and Target Columns for Model Training",
-      "numbering": 40,
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Hands-On: Getting Help in the Docker CLI",
+      "numbering": 32,
       "duration": "4min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Structuring Data for Model Input and Running an Initial Prediction",
+      "section": "Section 4: [Docker] Running Containers with Docker",
+      "lesson": "Quiz 2: Running Containers with the Docker CLI",
+      "numbering": 33,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 5: [Docker] Project - Customizing NGINX Containers",
+      "lesson": "Project Overview",
+      "numbering": 34,
+      "duration": "2min",
+      "isDone": true
+    },
+    {
+      "section": "Section 5: [Docker] Project - Customizing NGINX Containers",
+      "lesson": "Running NGINX Containers",
+      "numbering": 35,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 5: [Docker] Project - Customizing NGINX Containers",
+      "lesson": "Modifying the Contents of Our NGINX Container",
+      "numbering": 36,
+      "duration": "6min",
+      "isDone": true
+    },
+    {
+      "section": "Section 5: [Docker] Project - Customizing NGINX Containers",
+      "lesson": "Project Conclusion",
+      "numbering": 37,
+      "duration": "2min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Section Introduction",
+      "numbering": 38,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "What Are Docker Images?",
+      "numbering": 39,
+      "duration": "6min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Container Registries",
+      "numbering": 40,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Introduction to DockerHub",
       "numbering": 41,
-      "duration": "10min",
-      "isDone": false
+      "duration": "4min",
+      "isDone": true
     },
     {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Training the Model: Initial Setup and Challenges",
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Logging Into DockerHub in the Docker CLI",
       "numbering": 42,
-      "duration": "11min",
-      "isDone": false
+      "duration": "5min",
+      "isDone": true
     },
     {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 11: Test your knowledge on Data Preparation and Initial Neuron Training Steps",
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Quiz 3: Docker Images, Registries, and Tags",
       "numbering": 43,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "[Day 4]: Understanding Output Normalization for Stable Learning",
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Role Play 3: Advocating for Pinned Image Versions",
       "numbering": 44,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Implementing Output Normalization in PyTorch for Consistent Predictions",
-      "numbering": 45,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 12: Test your knowledge on Output Data Normalization",
-      "numbering": 46,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Understanding Input Normalization for Consistent Training",
-      "numbering": 47,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Implementing Input Normalization in PyTorch for Improved Predictions",
-      "numbering": 48,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 13: Test your knowledge on Input Data Normalization",
-      "numbering": 49,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Experimenting with Training Parameters Through Loss Visualization",
-      "numbering": 50,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Saving and Loading Model in PyTorch",
-      "numbering": 51,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Quiz 14: Test your knowledge on Data Preparation, Model Training and Evaluation",
-      "numbering": 52,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Exercise: Adding an Additional Column to the Model",
-      "numbering": 53,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 4: [Day 3 & 4]: Single Neuron Regression: Predicting Used Car Prices with PyTorch",
-      "lesson": "Solution: Adding an Additional Column to the Model",
-      "numbering": 54,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "[Day 5]: Introduction to Spam Detection",
-      "numbering": 55,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Exploring and Preprocessing the SMS Spam Dataset",
-      "numbering": 56,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Using Count Vectorizer to Transform Text into Numerical Data",
-      "numbering": 57,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 15: Test your knowledge on Spam Detection and Text Preprocessing",
-      "numbering": 58,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optional / Extra: Exploring TF-IDF Vectorizer for Improved Text Preprocessing",
-      "numbering": 59,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Training the Model for Spam Classification",
-      "numbering": 60,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optimizing Training for Our Neuron Classifier",
-      "numbering": 61,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Understanding the Sigmoid Activation Function for Probability Output",
-      "numbering": 62,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 16: Test your knowledge on Model Training and Sigmoid Function for Spam Detection",
-      "numbering": 63,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Switching to Binary Cross Entropy Loss for Effective Training",
-      "numbering": 64,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Using BCE with Sigmoid for Loss Calculation and Prediction",
-      "numbering": 65,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Evaluating Model with Key Performance Metrics",
-      "numbering": 66,
-      "duration": "15min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 17: Test your knowledge on Loss Functions and Evaluation Metrics in Spam Detection",
-      "numbering": 67,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "[Day 6]: Understanding Training, Validation and Test Data in Model Development",
-      "numbering": 68,
-      "duration": "4min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Implementing Training and Validation Data Splits in Python",
-      "numbering": 69,
-      "duration": "14min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Applying and Evaluating the Model on Fresh Data",
-      "numbering": 70,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 18: Test your knowledge on Data Segmentation in Model Development",
-      "numbering": 71,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optional / extra: Improving Spam Detection with Large Language Model Embeddings",
-      "numbering": 72,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optional / extra: Generating Embeddings with BART for Spam Detection",
-      "numbering": 73,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optional / extra: Building a Function to Generate Embeddings for Spam Detection",
-      "numbering": 74,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Optional / extra: Integrating Embeddings into the Spam Filter",
-      "numbering": 75,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 19: Optional / extra: Test your knowledge on Enhancing Detection with LLM Embeddings",
-      "numbering": 76,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Quiz 20: Test your knowledge on Spam Detection Techniques",
-      "numbering": 77,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 5: [Day 5 & 6]: Neuron Classifier: Spam Detection in SMS",
-      "lesson": "Role Play 2: [S4 & S5]: Model Results Review",
-      "numbering": 78,
       "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 6: [Day 6]: Exam",
-      "lesson": "Practice Test 1: PRACTICE EXAM: Test your knowledge so far (1/2)",
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Managing Images with the Docker CLI",
+      "numbering": 45,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Introduction to Dockerfiles",
+      "numbering": 46,
+      "duration": "7min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Creating Our First Dockerfile for Nginx",
+      "numbering": 47,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Copying Local Files Into Our Image",
+      "numbering": 48,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Hands-On: Images vs. Containers",
+      "numbering": 49,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Quiz 4: Building Images and the Image vs. Container Relationship",
+      "numbering": 50,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 6: [Docker] Introduction to Docker Images",
+      "lesson": "Role Play 4: Troubleshooting Unchanged Containers",
+      "numbering": 51,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Project Introduction",
+      "numbering": 52,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Create a Hello World Express App",
+      "numbering": 53,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Save and Return Users in Memory",
+      "numbering": 54,
+      "duration": "5min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Test Users App",
+      "numbering": 55,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Dockerize Our Express App",
+      "numbering": 56,
+      "duration": "9min",
+      "isDone": true
+    },
+    {
+      "section": "Section 7: [Docker] Project - Containerize an Express App",
+      "lesson": "Explore Interacting with Containers + Project Cleanup",
+      "numbering": 57,
+      "duration": "6min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Section Introduction",
+      "numbering": 58,
+      "duration": "2min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Docker's Layered Architecture",
+      "numbering": 59,
+      "duration": "7min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Build Contexts",
+      "numbering": 60,
+      "duration": "9min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Skipping files with Dockerignore",
+      "numbering": 61,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Quiz 5: Understanding the Build Process and Layered Architecture",
+      "numbering": 62,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Role Play 5: Explaining the Build Context and .dockerignore",
+      "numbering": 63,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Introduction to Environment Variables",
+      "numbering": 64,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Setting Environment Variables via the CLI",
+      "numbering": 65,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Setting Environment Variables via Files",
+      "numbering": 66,
+      "duration": "7min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: CMD vs. ENTRYPOINT",
+      "numbering": 67,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Quiz 6: Configuring Containers: Environment Variables, CMD & ENTRYPOINT",
+      "numbering": 68,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Introduction to Distroless Images",
+      "numbering": 69,
+      "duration": "4min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Motivation to Multistage Dockerfiles",
+      "numbering": 70,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Multistage Dockerfiles and Distroless Images",
+      "numbering": 71,
+      "duration": "9min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Role Play 6: Justifying a Multi-Stage Build for Security",
+      "numbering": 72,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Adding Typescript to Our Express App",
+      "numbering": 73,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Update Dockerfile to Transpile Typescript Code",
+      "numbering": 74,
+      "duration": "10min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Optimizing Images - The Role of Base Images",
+      "numbering": 75,
+      "duration": "18min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Optimizing Images - The Role of Instruction Order",
+      "numbering": 76,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Optimizing Images - The Role of Dependencies",
+      "numbering": 77,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Hands-On: Revisiting and Optimizing Our Typescript Dockerfile",
+      "numbering": 78,
+      "duration": "9min",
+      "isDone": true
+    },
+    {
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Quiz 7: Advanced Optimization with Multi-Stage Builds",
       "numbering": 79,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "[Day 7]: From Single Neuron to Neural Networks",
+      "section": "Section 8: [Docker] Images Deep Dive",
+      "lesson": "Role Play 7: Mentoring on Dockerfile Layer Caching",
       "numbering": 80,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optional: Understanding Activation Functions in Neural Networks",
-      "numbering": 81,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optional / extra: Exploring Nonlinearity and Its Impact on Neural Networks",
-      "numbering": 82,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Understanding Backpropagation in Neural Networks",
-      "numbering": 83,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optional: Decoding the Mathematics of Backpropagation",
-      "numbering": 84,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Quiz 21: Test your knowledge on Neural Network Fundamentals",
-      "numbering": 85,
       "duration": "0min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Analyzing Student Performance Data for Exam Predictions",
-      "numbering": 86,
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "Project Introduction",
+      "numbering": 81,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "IMPORTANT! What to do if you face an error with create-react-app",
+      "numbering": 82,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "Initializing the React App",
+      "numbering": 83,
+      "duration": "6min",
+      "isDone": true
+    },
+    {
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "Build and Serve the React App",
+      "numbering": 84,
       "duration": "4min",
-      "isDone": false
+      "isDone": true
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optional: Applying a Single Neuron to Student Exam Data",
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "Create a Dockerfile for Our React App - Part 1",
+      "numbering": 85,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 9: [Docker] Project - Containerize React App",
+      "lesson": "Create a Dockerfile for Our React App - Part 2",
+      "numbering": 86,
+      "duration": "8min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Section Introduction",
       "numbering": 87,
-      "duration": "13min",
-      "isDone": false
+      "duration": "1min",
+      "isDone": true
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Building and Training Our First Neural Network",
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Hands-On: Why Do We Need Volumes?",
       "numbering": 88,
-      "duration": "13min",
-      "isDone": false
+      "duration": "4min",
+      "isDone": true
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optimizing Training for Our Neural Network Classifier",
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Introduction to Volumes",
       "numbering": 89,
+      "duration": "3min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "IMPORTANT! Hot reloading fix",
+      "numbering": 90,
+      "duration": "1min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Hands-On: Bind Mounts",
+      "numbering": 91,
+      "duration": "11min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Quiz 8: Data Persistence and Bind Mounts for Development",
+      "numbering": 92,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Role Play 8: Solving the \"Slow Development\" Problem",
+      "numbering": 93,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Hands-On: Named Volumes",
+      "numbering": 94,
+      "duration": "10min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Hands-On: Managing Volumes with the CLI",
+      "numbering": 95,
+      "duration": "7min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Quiz 9: Named Volumes and CLI Management",
+      "numbering": 96,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 10: [Docker] Volumes and Data Persistence",
+      "lesson": "Role Play 9: Recommending a Volume Strategy",
+      "numbering": 97,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Section Introduction",
+      "numbering": 98,
       "duration": "1min",
       "isDone": false
     },
     {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Quiz 22: Test your knowledge on Data Analysis and Neural Network Training",
-      "numbering": 90,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Evaluating Neural Network Performance",
-      "numbering": 91,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Simplifying the Code with nn.Sequential",
-      "numbering": 92,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Quiz 23: Test your knowledge on Neural Network Application Techniques",
-      "numbering": 93,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "[Day 8]: Introducing ReLU Activation Function",
-      "numbering": 94,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optimizing Training with Adam",
-      "numbering": 95,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Quiz 24: Test your knowledge on Optimizing Neural Networks with ReLU and Adam",
-      "numbering": 96,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Implementing Mini-Batch Learning for Efficient Training",
-      "numbering": 97,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Optimizing Loss Tracking in Mini-Batch Training",
-      "numbering": 98,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 7: [Day 7 & 8]: Neural Network Classifier: Student Exam Results Prediction",
-      "lesson": "Quiz 25: Test your knowledge on Essential Neural Network Concepts",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: Setting CPU Limits for Containers",
       "numbering": 99,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
-      "lesson": "Introduction to Loan Approval Prediction",
-      "numbering": 100,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
-      "lesson": "Exploring the Loan Approval Dataset",
-      "numbering": 101,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
-      "lesson": "Solution Part 1: Preparing Data for the Loan Approval Model",
-      "numbering": 102,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 8: [Day 8]: Exercise: Loan Approval Classification",
-      "lesson": "Solution Part 2: Building and Training the Loan Approval Model",
-      "numbering": 103,
       "duration": "11min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "[Day 9]: Introduction to Handwritten Digit Classification",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: Setting Memory Limits for Containers",
+      "numbering": 100,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Quiz 10: Managing Container Resources: CPU and Memory",
+      "numbering": 101,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Role Play 10: Solving the \"Noisy Neighbor\" Problem",
+      "numbering": 102,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: Restart Policies",
+      "numbering": 103,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Introduction to Networking in Docker",
       "numbering": 104,
-      "duration": "1min",
+      "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Exploring MNIST Data with TorchVision",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: The Default Bridge Network",
       "numbering": 105,
-      "duration": "7min",
+      "duration": "6min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "From Dataset to DataLoader: Preparing Data for Neural Network",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: User-Defined Networks",
       "numbering": 106,
       "duration": "8min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 26: Test your knowledge on Data Preparation for Neural Network Training",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Hands-On: The Host Network",
       "numbering": 107,
-      "duration": "0min",
+      "duration": "5min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Building a Binary Classifier for 0 Detection",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Quiz 11: Docker Networking: Isolation and Communication",
       "numbering": 108,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Evaluating the Binary Classifier for 0 Detection",
-      "numbering": 109,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 27: Test your knowledge on Binary Classifier Essentials",
-      "numbering": 110,
       "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Multi-Class Classification in Neural Networks",
+      "section": "Section 11: [Docker] Advanced Topics - Resource Management, Restart Policies, and Networking",
+      "lesson": "Role Play 11: Fixing a Brittle Container Connection",
+      "numbering": 109,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Project Introduction",
+      "numbering": 110,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Running a MongoDB Server",
       "numbering": 111,
       "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Understanding One-Hot Encoding",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Adding Root Credentials to MongoDB",
       "numbering": 112,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 28: Test your knowledge on Preparing Data for Multi-Class Classification",
-      "numbering": 113,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Training a Neural Network for Multi-Class Classification",
-      "numbering": 114,
       "duration": "9min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Optimizing Training for Our Neural Network Multi-Class Classifier",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Adding Credentials for the Key-Value Database",
+      "numbering": 113,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Defining Ports, Volumes, and Networks",
+      "numbering": 114,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Improving the Structure of Our Utility Scripts",
       "numbering": 115,
-      "duration": "1min",
+      "duration": "16min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Evaluating a Neural Network for Multi-Class Classification",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Setting Up the Express App",
       "numbering": 116,
-      "duration": "13min",
+      "duration": "11min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 29: Test your knowledge on Neural Network Adjustments for Multi-Class Classification",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Dockerizing the Express App",
       "numbering": 117,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "[Day 10]: Understanding Softmax for Class Probability Normalization",
-      "numbering": 118,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Applying Softmax in Neural Network",
-      "numbering": 119,
       "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Experimenting with Different Neural Network Architectures",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Create Scripts to Initialize the Backend Container",
+      "numbering": 118,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Adding Hot Reloading with Nodemon",
+      "numbering": 119,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Defining the API Routes",
       "numbering": 120,
       "duration": "8min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 30: Test your knowledge on Softmax and Network Architecture",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Creating and Getting Key-Value Pairs",
       "numbering": 121,
-      "duration": "0min",
+      "duration": "11min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Understanding Overfitting in Neural Networks",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Updating and Deleting Key-Value Pairs",
       "numbering": 122,
-      "duration": "5min",
+      "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Demonstrating Overfitting in Neural Network Training",
+      "section": "Section 12: [Docker] Project - Code and Deploy a Key-Value App with Data Persistence",
+      "lesson": "Testing the Application and Final Cleanup",
       "numbering": 123,
-      "duration": "17min",
+      "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Strategies to Counter Overfitting",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Section Introduction",
       "numbering": 124,
-      "duration": "9min",
+      "duration": "1min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 31: Test your knowledge on Overfitting in Neural Network",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Docker Compose Overview",
       "numbering": 125,
-      "duration": "0min",
+      "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Optional / extra: Applying a Neural Network to Custom Images",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Docker-Compose vs. Compose CLI Commands",
       "numbering": 126,
-      "duration": "13min",
+      "duration": "2min",
       "isDone": false
     },
     {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Optional / extra: Overcoming Preprocessing Challenges in Model Application",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Role Play 12: Advocating for Docker Compose",
       "numbering": 127,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Quiz 32: Test your knowledge on Multi-Class Classifier Fundamentals",
-      "numbering": 128,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 9: [Day 9 & 10]: Neural Network for Multi-Class Classification: Handwritten Digits",
-      "lesson": "Role Play 3: [S7 & S9]: Model Scaling Check-In",
-      "numbering": 129,
       "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "[Day 11]: Introduction to Convolutional Neural Networks",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Run MongoDB with Docker Compose",
+      "numbering": 128,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Environment Variables in Docker Compose",
+      "numbering": 129,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Quiz 12: Introduction to Docker Compose Services and Configuration",
       "numbering": 130,
-      "duration": "3min",
+      "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Exploring Fashion MNIST Data",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Bind Mounts in Docker Compose",
       "numbering": 131,
-      "duration": "3min",
+      "duration": "7min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optional: Assessing Previous Model Performance on Fashion MNIST Data",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Volumes and Networks in Docker Compose",
       "numbering": 132,
-      "duration": "3min",
+      "duration": "5min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Exploring Edge Detection with the Sobel Operator",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Adding a Backend Service to Our Docker Compose File",
       "numbering": 133,
       "duration": "3min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 33: Test your knowledge on CNN Basics and Image Processing",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Service Dependencies in Docker Compose",
       "numbering": 134,
-      "duration": "0min",
+      "duration": "4min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Understanding the Structure of Convolutional Neural Networks for Edge Detection",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Quiz 13: Managing Data, Networks, and Dependencies in Compose",
       "numbering": 135,
-      "duration": "2min",
+      "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Part 1: Implementing a CNN",
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Role Play 13: Solving a Race Condition within Docker Compose",
       "numbering": 136,
-      "duration": "12min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Part 2: Advancing CNN Implementation",
-      "numbering": 137,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 34: Test your knowledge on CNN Architecture and Functionality",
-      "numbering": 138,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optimizing Training for Our CNN",
-      "numbering": 139,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Reducing CNN Complexity with Max Pooling",
-      "numbering": 140,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 35: Test your knowledge on Max Pooling in CNNs",
-      "numbering": 141,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Utilizing GPU Acceleration with PyTorch",
-      "numbering": 142,
-      "duration": "2min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optional: Enabling CUDA on NVIDIA GPUs",
-      "numbering": 143,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Leveraging Google Colab's Free GPU",
-      "numbering": 144,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optimizing Tensor Computations on GPU",
-      "numbering": 145,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Running Simple Model on GPU",
-      "numbering": 146,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Accelerating CNN Execution Speed with GPU",
-      "numbering": 147,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 36: Test your knowledge on Utilizing GPUs with PyTorch",
-      "numbering": 148,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "[Day 12]: Advancing CNN Complexity",
-      "numbering": 149,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Enhancing CNN Performance with Increased Filter Complexity",
-      "numbering": 150,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 37: Test your knowledge on CNN Layer Configurations",
-      "numbering": 151,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Introducing Dropout for Improved Generalization",
-      "numbering": 152,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optimizing CNN with Dropout Layers",
-      "numbering": 153,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Refining CNN with Batch Normalization",
-      "numbering": 154,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 38: Test your knowledge on Dropout and Batch Normalization",
-      "numbering": 155,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optional: Understanding the Mathematics of Batch Normalization",
-      "numbering": 156,
-      "duration": "6min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Optional / extra: Application of Overfitting Detection and Model Finalization",
-      "numbering": 157,
-      "duration": "15min",
-      "isDone": false
-    },
-    {
-      "section": "Section 10: [Day 11 & 12]: Convolutional Networks: Fashion Item Classification (multi-class)",
-      "lesson": "Quiz 39: Test your knowledge on Key CNN Techniques",
-      "numbering": 158,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "[Day 13]: Introduction to Transfer Learning and Tire Quality Prediction",
-      "numbering": 159,
-      "duration": "5min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Preparing the Tire Quality Dataset",
-      "numbering": 160,
-      "duration": "1min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Exploring the Tire Quality Dataset",
-      "numbering": 161,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "An Introduction to ResNet in Transfer Learning",
-      "numbering": 162,
-      "duration": "10min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Using ResNet-50 to Classify an Image of a Cat",
-      "numbering": 163,
-      "duration": "15min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Quiz 40: Test your knowledge of Transfer Learning and ResNet",
-      "numbering": 164,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Optional / extra: Exploring the ResNet Research Paper",
-      "numbering": 165,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Preparing Data for ResNet Training",
-      "numbering": 166,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Part 1: Customizing ResNet-50 for Tire Quality Prediction",
-      "numbering": 167,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Part 2: Building a Transfer Learning Model for Tire Quality Prediction",
-      "numbering": 168,
-      "duration": "11min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Quiz 41: Test your knowledge on Preparing and Modifying ResNet for Transfer Learning",
-      "numbering": 169,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "[Day 14]: Part 3: Training the Transfer Learning Model",
-      "numbering": 170,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Part 4: Evaluating Model Performance and Addressing Overfitting",
-      "numbering": 171,
-      "duration": "17min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Quiz 42: Test your knowledge on Training and Evaluating a Transfer Learning Model",
-      "numbering": 172,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Data Augmentation for Combating Overfitting",
-      "numbering": 173,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Integrating Data Augmentation into Model Training for Improved Accuracy",
-      "numbering": 174,
-      "duration": "13min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Quiz 43: Test your knowledge on Enhancing Models with Data Augmentation",
-      "numbering": 175,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Adapting Model Weights for Universal Compatibility",
-      "numbering": 176,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Using the Trained Model to Predict Tire Quality",
-      "numbering": 177,
-      "duration": "14min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Testing Approaches for Tire Model Deployment",
-      "numbering": 178,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 11: [Day 13 & 14]: Transfer Learning with ResNet for Tire Quality Prediction",
-      "lesson": "Quiz 44: Test your knowledge on Tire Quality Prediction and Transfer Learning",
-      "numbering": 179,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Introduction to Deploying AI Models with Gradio",
-      "numbering": 180,
-      "duration": "3min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Getting Started with Gradio for Simple AI Apps",
-      "numbering": 181,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Uploading and Processing Images with Gradio",
-      "numbering": 182,
-      "duration": "8min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Quiz 45: Test your knowledge on Gradio and AI Model Integration",
-      "numbering": 183,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Integrating Gradio with PyTorch for Predictions",
-      "numbering": 184,
-      "duration": "9min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Deploying Gradio for Real-World Tire Predictions",
-      "numbering": 185,
-      "duration": "7min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Quiz 46: Test your knowledge on Real-World Testing of Gradio Apps",
-      "numbering": 186,
-      "duration": "0min",
-      "isDone": false
-    },
-    {
-      "section": "Section 12: [Day 15]: Deploying AI Models with Gradio: From Setup to Real-World Predictions",
-      "lesson": "Role Play 4: [S10, S11 & S12]: Planning the Wildlife Detection App",
-      "numbering": 187,
       "duration": "0min",
       "isDone": true
     },
     {
-      "section": "Section 13: [Day 15]: Exam",
-      "lesson": "Practice Test 2: PRACTICE EXAM: Test your knowledge so far (2/2)",
-      "numbering": 188,
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Hot Reloading and Watching for Changes",
+      "numbering": 137,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Docker Compose CLI",
+      "numbering": 138,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 13: [Docker] Docker Compose",
+      "lesson": "Hands-On: Getting Help with Docker Compose CLI",
+      "numbering": 139,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Project Introduction",
+      "numbering": 140,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Setup NPM Projects",
+      "numbering": 141,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Dockerize the Notebooks Backend",
+      "numbering": 142,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Setup Docker Compose for Notebooks Services",
+      "numbering": 143,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Setup Docker Compose for Notes Services",
+      "numbering": 144,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Use Multistage Builds for Our Images",
+      "numbering": 145,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Merging Multiple Projects in Docker Compose",
+      "numbering": 146,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Implement the NGINX Reverse Proxy",
+      "numbering": 147,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Establish the Connections between Services",
+      "numbering": 148,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Setup Models and Routes for the Notebooks Service",
+      "numbering": 149,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Implement Routes to Create and Retrieve Notebooks",
+      "numbering": 150,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Implement Routes to Update and Delete Notebooks",
+      "numbering": 151,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Code Refactorings",
+      "numbering": 152,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Implement Routes and Business Logic in the Notes Backend",
+      "numbering": 153,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Storing Notebook IDs in the Notes Service - Part 1",
+      "numbering": 154,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Storing Notebook IDs in the Notes Service - Part 2",
+      "numbering": 155,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 14: [Docker] Project - Code and Deploy a Notes App with Docker Compose",
+      "lesson": "Storing Notebook IDs in the Notes Service - Part 3",
+      "numbering": 156,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Section Introduction",
+      "numbering": 157,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Why Use Kubernetes?",
+      "numbering": 158,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "What Is Kubernetes?",
+      "numbering": 159,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Kubernetes Architecture",
+      "numbering": 160,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Quiz 14: Introduction to Kubernetes Concepts and Architecture",
+      "numbering": 161,
       "duration": "0min",
       "isDone": false
     },
     {
-      "section": "Section 14: Closing words",
-      "lesson": "Closing words",
-      "numbering": 189,
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Role Play 14: The \"Brain vs. Muscle\" Analogy for K8s Architecture",
+      "numbering": 162,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "The Control Plane",
+      "numbering": 163,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "The Data Plane",
+      "numbering": 164,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "The kubectl CLI",
+      "numbering": 165,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Quiz 15: Kubernetes Components and the kubectl CLI",
+      "numbering": 166,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 15: [Kubernetes] 10.000-Foot Overview",
+      "lesson": "Role Play 15: Explaining \"Smarter\" Self-Healing",
+      "numbering": 167,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[MacOS Users] Installing Kubectl in MacOS",
+      "numbering": 168,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[MacOS Users] Installing Minikube in MacOS",
+      "numbering": 169,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[Linux Users] Installing Kubectl in Linux",
+      "numbering": 170,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[Linux Users] Installing Minikube in Linux",
+      "numbering": 171,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[Windows Users] Installing Kubectl in Windows Subsystem for Linux (WSL)",
+      "numbering": 172,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 16: [Kubernetes] Installing Tools",
+      "lesson": "[Windows Users] Installing Minikube in Windows Subsystem for Linux (WSL)",
+      "numbering": 173,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Section Introduction",
+      "numbering": 174,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Introduction to Pods",
+      "numbering": 175,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "The Pod Lifecycle",
+      "numbering": 176,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Quiz 16: Understanding Kubernetes Pods and Their Lifecycle",
+      "numbering": 177,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Hands-On: Creating Pods with Kubectl",
+      "numbering": 178,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Hands-On: Managing Pods with Kubectl",
+      "numbering": 179,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Hands-On: Exposing Pods via Services",
+      "numbering": 180,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Role Play 16: Fixing an Unreliable Pod Connection",
+      "numbering": 181,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Hands-On: Color API - Implement v1.0.0",
+      "numbering": 182,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Hands-On: From Dockerfiles to Pods",
+      "numbering": 183,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Quiz 17: Managing Pods and Services with kubectl",
+      "numbering": 184,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 17: [Kubernetes] Running Containers in Kubernetes",
+      "lesson": "Role Play 17: Explaining the Code-to-Cluster Workflow",
+      "numbering": 185,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Section Introduction",
+      "numbering": 186,
       "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Object Management in Kubernetes",
+      "numbering": 187,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Kubernetes Manifest Files",
+      "numbering": 188,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Quiz 18: Kubernetes Object Management Paradigms",
+      "numbering": 189,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Role Play 18: The \"Disaster Recovery\" Fire Drill",
+      "numbering": 190,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Working with Imperative Commands - Part 1",
+      "numbering": 191,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Working with Imperative Commands - Part 2",
+      "numbering": 192,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Generating Kubernetes Manifests with kubectl",
+      "numbering": 193,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Shortcomings of Imperative Commands with Configuration Files",
+      "numbering": 194,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Declarative Object Management in Kubernetes",
+      "numbering": 195,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Role Play 19: Updating vs. Replacing Kubernetes Resources",
+      "numbering": 196,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Migrating from Imperative to Declarative Object Management",
+      "numbering": 197,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Hands-On: Creating Multiple Kubernetes Manifests in the Same YAML File",
+      "numbering": 198,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Quiz 19: Practical Object Management with YAML Manifests",
+      "numbering": 199,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 18: [Kubernetes] Object Management and YAML Manifests",
+      "lesson": "Role Play 20: The \"Blueprint\" Walkthrough",
+      "numbering": 200,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Section Introduction",
+      "numbering": 201,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "What Are ReplicaSets?",
+      "numbering": 202,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Creating and Managing ReplicaSets",
+      "numbering": 203,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Shortcomings of ReplicaSets - Updating Pods",
+      "numbering": 204,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Shortcomings of ReplicaSets - Managing Existing Pods",
+      "numbering": 205,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Quiz 20: Understanding ReplicaSets for Scalability and Resilience",
+      "numbering": 206,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Role Play 21: Explaining the Role of ReplicaSets",
+      "numbering": 207,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Introduction to Deployments",
+      "numbering": 208,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Creating and Managing Deployments",
+      "numbering": 209,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Updating the Pod Template",
+      "numbering": 210,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Understanding Rollouts",
+      "numbering": 211,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Scaling Deployments with Kubectl",
+      "numbering": 212,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Hands-On: Troubleshooting Failed Rollouts",
+      "numbering": 213,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Quiz 21: Managing Application Lifecycle with Deployments",
+      "numbering": 214,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 19: [Kubernetes] ReplicaSets and Deployments",
+      "lesson": "Role Play 22: Explaining the Mechanics of a Rolling Update",
+      "numbering": 215,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Section Introduction",
+      "numbering": 216,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Overview of Services",
+      "numbering": 217,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Quiz 22: Kubernetes Services and Core Concepts",
+      "numbering": 218,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Color API - Implement v1.1.0: Add hostname information",
+      "numbering": 219,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Traffic Generator - Implement v1.0.0",
+      "numbering": 220,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Deploy the Color API and Traffic Generator",
+      "numbering": 221,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Working with ClusterIP Services",
+      "numbering": 222,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Role Play 23: Designing Internal Service Communication",
+      "numbering": 223,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Working with NodePort Services",
+      "numbering": 224,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: NodePort Services in Linux",
+      "numbering": 225,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Hands-On: Working with ExternalName Services",
+      "numbering": 226,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Quiz 23: Practical Application of Service Types",
+      "numbering": 227,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 20: [Kubernetes] Services Deep Dive",
+      "lesson": "Role Play 24: Exposing an App for Testing",
+      "numbering": 228,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Section Introduction",
+      "numbering": 229,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Labels and Selectors",
+      "numbering": 230,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Labels and Selectors in Kubectl",
+      "numbering": 231,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Selecting Objects with MatchLabels and MatchExpressions",
+      "numbering": 232,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Annotations",
+      "numbering": 233,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Introduction to Namespaces",
+      "numbering": 234,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Creating and Managing Namespaces",
+      "numbering": 235,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Cross-Namespace Service Communication",
+      "numbering": 236,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Quiz 24: Organizing and Isolating Kubernetes Resources",
+      "numbering": 237,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Role Play 25: Structuring a Chaotic Cluster",
+      "numbering": 238,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Introduction to Resource Quotas, Requests, and Limits",
+      "numbering": 239,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Working with Resource Quotas",
+      "numbering": 240,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Setting Resource Requests and Limits",
+      "numbering": 241,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Rollouts, Resource Requests and Limits",
+      "numbering": 242,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Introduction to Startup, Liveness, and Readiness Probes",
+      "numbering": 243,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Color API - Implement v1.2.0: Add health endpoints",
+      "numbering": 244,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Startup Probes in Details",
+      "numbering": 245,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Color API - Implement v1.2.1: Add dedicated startup endpoint",
+      "numbering": 246,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Liveness Probes in Details",
+      "numbering": 247,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Hands-On: Readiness Probes in Details",
+      "numbering": 248,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Quiz 25: Resource Constraints and Health Probes",
+      "numbering": 249,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 21: [Kubernetes] Resource Management",
+      "lesson": "Role Play 26: Implementing Zero-Downtime Deployments with Probes",
+      "numbering": 250,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Section Introduction",
+      "numbering": 251,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Introduction to Volumes",
+      "numbering": 252,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "EmptyDir and Local Volumes",
+      "numbering": 253,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Working with EmptyDir Ephemeral Storage",
+      "numbering": 254,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Introduction to Persistent Volume Claims",
+      "numbering": 255,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Creating Persistent Volumes and Persistent Volume Claims",
+      "numbering": 256,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Mounting Volumes in Pods and Containers",
+      "numbering": 257,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Deleting Persistent Volumes and Persistent Volume Claims",
+      "numbering": 258,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Dynamically Provisioning Persistent Volumes",
+      "numbering": 259,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Quiz 26: Kubernetes Storage Concepts and Volumes",
+      "numbering": 260,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Role Play 27: Explaining the Storage Abstraction Layer",
+      "numbering": 261,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Introduction to StatefulSets",
+      "numbering": 262,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Working with StatefulSets - Creating Persistent Volumes",
+      "numbering": 263,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Working with StatefulSets - Creating the StatefulSet",
+      "numbering": 264,
+      "duration": "14min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Quick Note: Delete StatefulSets, PVCs, and PVs from Previous Lectures",
+      "numbering": 265,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: StatefulSets with Dynamically Provisioned Persistent Volumes",
+      "numbering": 266,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Hands-On: Headless Services",
+      "numbering": 267,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Quiz 27: StatefulSets and Stable Identities",
+      "numbering": 268,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 22: [Kubernetes] Storage and Persistence",
+      "lesson": "Role Play 28: Designing a Database Cluster with StatefulSets",
+      "numbering": 269,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Section Introduction",
+      "numbering": 270,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Introduction to ConfigMaps",
+      "numbering": 271,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Hands-On: Color API - Implement v1.3.0: Receive color information externally",
+      "numbering": 272,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Hands-On: Passing Information from ConfigMaps via Environment Variables",
+      "numbering": 273,
+      "duration": "14min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Hands-On: Mounting ConfigMaps as Volumes",
+      "numbering": 274,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Quiz 28: Managing Configuration with ConfigMaps",
+      "numbering": 275,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Role Play 29: Decoupling Configuration from Code",
+      "numbering": 276,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Introduction to Secrets",
+      "numbering": 277,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Hands-On: Passing Information from Secrets via Environment Variables",
+      "numbering": 278,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Hands-On: Mounting Secrets as Volumes",
+      "numbering": 279,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Quiz 29: Securing Sensitive Data with Secrets",
+      "numbering": 280,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 23: [Kubernetes] Configuration Management",
+      "lesson": "Role Play 30: Handling Sensitive Data with Secrets",
+      "numbering": 281,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Project Overview",
+      "numbering": 282,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Create Database Credentials",
+      "numbering": 283,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Create Headless Service and ConfigMaps",
+      "numbering": 284,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Create the StatefulSet",
+      "numbering": 285,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Deploy and Validate the StatefulSet",
+      "numbering": 286,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Test Scaling the StatefulSet",
+      "numbering": 287,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Color API - Implement v2.0.0: Refactoring the Code",
+      "numbering": 288,
+      "duration": "16min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Color API - Implement v2.0.0: Persist Data in the MongoDB Database",
+      "numbering": 289,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Color API - Implement v2.0.0: Implement Database Connection Logic",
+      "numbering": 290,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Color API - Implement v2.0.0: Implement Routes for Business Logic",
+      "numbering": 291,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Deploy the New Color API Version",
+      "numbering": 292,
+      "duration": "16min",
+      "isDone": false
+    },
+    {
+      "section": "Section 24: [Kubernetes] Project - Deploying a MongoDB Database",
+      "lesson": "Project Wrap-Up and Clean-Up",
+      "numbering": 293,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Section Introduction",
+      "numbering": 294,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Introduction to Security in Kubernetes",
+      "numbering": 295,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Role-Based Access Control (RBAC)",
+      "numbering": 296,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Overview of Minikube's Roles and ClusterRoles",
+      "numbering": 297,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "The Kubernetes API",
+      "numbering": 298,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Exploring API Resources",
+      "numbering": 299,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Creating Two Users: Alice and Bob",
+      "numbering": 300,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Configure Access Credentials for Alice and Bob",
+      "numbering": 301,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Setup Permissions to Read Pods",
+      "numbering": 302,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Use ClusterRoles for Cluster-Wide Permissions",
+      "numbering": 303,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Exploring Subresources and Permissions",
+      "numbering": 304,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Introduction to Service Accounts",
+      "numbering": 305,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Default Service Accounts",
+      "numbering": 306,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Creating Our Own Service Accounts",
+      "numbering": 307,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Quiz 30: RBAC and Service Account Identity",
+      "numbering": 308,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Role Play 31: Setting up Access for a CI/CD Bot",
+      "numbering": 309,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: RBAC - Clean-Up",
+      "numbering": 310,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Introduction to Network Policies",
+      "numbering": 311,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Calico vs. Native Kubernetes Network Policies",
+      "numbering": 312,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Deny All Ingress Traffic",
+      "numbering": 313,
+      "duration": "11min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Allow Traffic Between Specific Pods",
+      "numbering": 314,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Exploring Pod Selectors",
+      "numbering": 315,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Combining Pod Selectors",
+      "numbering": 316,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Handling Egress Traffic",
+      "numbering": 317,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Network Policies and Namespaces",
+      "numbering": 318,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Quiz 31: Securing Traffic with Network Policies",
+      "numbering": 319,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Role Play 32: Isolating a Sensitive Database with Network Policies",
+      "numbering": 320,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Introduction to Pod Security Standards (PSS)",
+      "numbering": 321,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Working with Pod Security Standards",
+      "numbering": 322,
+      "duration": "12min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Hands-On: Exploring the Pod Security Standards Documentation",
+      "numbering": 323,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 25: [Kubernetes] Security Fundamentals",
+      "lesson": "Quiz 32: Enforcing Pod Security Standards",
+      "numbering": 324,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Section Introduction",
+      "numbering": 325,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Introduction to Kustomize",
+      "numbering": 326,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Our First Kustomize Project",
+      "numbering": 327,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Bases and Overlays",
+      "numbering": 328,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Quiz 33: Kustomize Fundamentals and Structure",
+      "numbering": 329,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Role Play 33: Solving Configuration Sprawl with Bases and Overlays",
+      "numbering": 330,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Creating the Dev and Prod Overlays",
+      "numbering": 331,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Transformations",
+      "numbering": 332,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Update: Deprecation of commonLabels",
+      "numbering": 333,
+      "duration": "1min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Working with Transformations",
+      "numbering": 334,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Generating ConfigMaps",
+      "numbering": 335,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Generating Secrets",
+      "numbering": 336,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Quiz 34: Transformations and Generators",
+      "numbering": 337,
+      "duration": "0min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Role Play 34: Automating Configuration Updates with Generators",
+      "numbering": 338,
+      "duration": "0min",
+      "isDone": true
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Introduction to Patching",
+      "numbering": 339,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Working with Strategic Merge Patches",
+      "numbering": 340,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 26: [Kubernetes] Kustomize",
+      "lesson": "Hands-On: Working with JSON Patches",
+      "numbering": 341,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Project Overview",
+      "numbering": 342,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Creating a Google Cloud Platform (GCP) Account",
+      "numbering": 343,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Overview of Project Costs",
+      "numbering": 344,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Overview of GCP's UI Console",
+      "numbering": 345,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Installing the gcloud CLI",
+      "numbering": 346,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Exploring the GKE UI Console",
+      "numbering": 347,
+      "duration": "2min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Create a Google Kubernetes Engine (GKE) Cluster",
+      "numbering": 348,
+      "duration": "8min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Connecting kubectl and GKE",
+      "numbering": 349,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploying an Nginx-based Website",
+      "numbering": 350,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Exploring Storage Classes in GKE",
+      "numbering": 351,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Exploring API Resources in GKE",
+      "numbering": 352,
+      "duration": "3min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Create Database Credentials for MongoDB",
+      "numbering": 353,
+      "duration": "7min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploy the MongoDB StatefulSet - Part 1",
+      "numbering": 354,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploy the MongoDB StatefulSet - Part 2",
+      "numbering": 355,
+      "duration": "10min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploy the MongoDB StatefulSet - Part 3",
+      "numbering": 356,
+      "duration": "13min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploy the Color API Application",
+      "numbering": 357,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Create a LoadBalancer Service for External Access",
+      "numbering": 358,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Color API - Implement v2.1.0-dev: Expose Prometheus Metrics",
+      "numbering": 359,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Customize Database Deployments",
+      "numbering": 360,
+      "duration": "15min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deploy Prod Overlay and Customize Dev Color API Image",
+      "numbering": 361,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Deny All Ingress and Allow Traffic Between Color API and MongoDB",
+      "numbering": 362,
+      "duration": "9min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Allow External Traffic into Color API Pods",
+      "numbering": 363,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Register Our Website Domain",
+      "numbering": 364,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Allocate Static IPs for Ingress",
+      "numbering": 365,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Create Ingress Objects",
+      "numbering": 366,
+      "duration": "6min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Create Managed TLS Certificates",
+      "numbering": 367,
+      "duration": "5min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Test Ingress Traffic from the Web Towards the Color API Pods",
+      "numbering": 368,
+      "duration": "4min",
+      "isDone": false
+    },
+    {
+      "section": "Section 27: [Kubernetes] Project - Deploying Our Color API to Google Kubernetes Engine (GKE)",
+      "lesson": "Project Cleanup",
+      "numbering": 369,
+      "duration": "6min",
       "isDone": false
     }
   ]
