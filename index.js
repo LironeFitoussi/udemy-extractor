@@ -260,6 +260,15 @@ function generateJSON(courseStructure) {
     return JSON.stringify(result, null, 2);
 }
 
+// Function to generate sections-only markdown
+function generateSectionsMarkdown(courseStructure) {
+    let markdown = '# Course Sections\n\n';
+    courseStructure.forEach((section) => {
+        markdown += `- ${section.title}\n`;
+    });
+    return markdown;
+}
+
 // Main execution
 async function main() {
     try {
@@ -272,16 +281,19 @@ async function main() {
         const tableMarkdown = generateTableMarkdown(courseStructure);
         const { csvWriter, records } = generateCSV(courseStructure);
         const jsonData = generateJSON(courseStructure);
+        const sectionsMarkdown = generateSectionsMarkdown(courseStructure);
         
         // Write files
         fs.writeFileSync('course-structure-table.md', tableMarkdown, 'utf8');
         await csvWriter.writeRecords(records);
         fs.writeFileSync('course-structure.json', jsonData, 'utf8');
+        fs.writeFileSync('sections.md', sectionsMarkdown, 'utf8');
         
         console.log('✅ Course structure has been extracted and saved to multiple formats:');
         console.log('  📄 course-structure-table.md (Markdown table with progress summary)');
         console.log('  📊 course-structure.csv (CSV format using csv-writer)');
         console.log('  🔧 course-structure.json (JSON format with progress summary)');
+        console.log('  📑 sections.md (Section titles only)');
         
         // Display progress statistics
         const stats = calculateStats(courseStructure);
